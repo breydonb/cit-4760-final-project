@@ -1,0 +1,5123 @@
+[
+  {
+    "Bank Name": "Republic First Bank dba Republic Bank",
+    "City": "Philadelphia",
+    "State": "PA",
+    "Cert": 27332,
+    "Acquiring Institution": "Fulton Bank, National Association",
+    "Closing Date": "26-Apr-2024",
+    "Fund": 10546
+  },
+  {
+    "Bank Name": "Citizens Bank",
+    "City": "Sac City",
+    "State": "IA",
+    "Cert": 8758,
+    "Acquiring Institution": "Iowa Trust & Savings Bank",
+    "Closing Date": "3-Nov-2023",
+    "Fund": 10545
+  },
+  {
+    "Bank Name": "Heartland Tri-State Bank",
+    "City": "Elkhart",
+    "State": "KS",
+    "Cert": 25851,
+    "Acquiring Institution": "Dream First Bank, N.A.",
+    "Closing Date": "28-Jul-2023",
+    "Fund": 10544
+  },
+  {
+    "Bank Name": "First Republic Bank",
+    "City": "San Francisco",
+    "State": "CA",
+    "Cert": 59017,
+    "Acquiring Institution": "JPMorgan Chase Bank, N.A.",
+    "Closing Date": "1-May-2023",
+    "Fund": 10543
+  },
+  {
+    "Bank Name": "Signature Bank",
+    "City": "New York",
+    "State": "NY",
+    "Cert": 57053,
+    "Acquiring Institution": "Flagstar Bank, N.A.",
+    "Closing Date": "12-Mar-2023",
+    "Fund": 10540
+  },
+  {
+    "Bank Name": "Silicon Valley Bank",
+    "City": "Santa Clara",
+    "State": "CA",
+    "Cert": 24735,
+    "Acquiring Institution": "First–Citizens Bank & Trust Company",
+    "Closing Date": "10-Mar-2023",
+    "Fund": 10539
+  },
+  {
+    "Bank Name": "Almena State Bank",
+    "City": "Almena",
+    "State": "KS",
+    "Cert": 15426,
+    "Acquiring Institution": "Equity Bank",
+    "Closing Date": "23-Oct-2020",
+    "Fund": 10538
+  },
+  {
+    "Bank Name": "First City Bank of Florida",
+    "City": "Fort Walton Beach",
+    "State": "FL",
+    "Cert": 16748,
+    "Acquiring Institution": "United Fidelity Bank, fsb",
+    "Closing Date": "16-Oct-2020",
+    "Fund": 10537
+  },
+  {
+    "Bank Name": "The First State Bank",
+    "City": "Barboursville",
+    "State": "WV",
+    "Cert": 14361,
+    "Acquiring Institution": "MVB Bank, Inc.",
+    "Closing Date": "3-Apr-2020",
+    "Fund": 10536
+  },
+  {
+    "Bank Name": "Ericson State Bank",
+    "City": "Ericson",
+    "State": "NE",
+    "Cert": 18265,
+    "Acquiring Institution": "Farmers and Merchants Bank",
+    "Closing Date": "14-Feb-2020",
+    "Fund": 10535
+  },
+  {
+    "Bank Name": "City National Bank of New Jersey",
+    "City": "Newark",
+    "State": "NJ",
+    "Cert": 21111,
+    "Acquiring Institution": "Industrial Bank",
+    "Closing Date": "1-Nov-2019",
+    "Fund": 10534
+  },
+  {
+    "Bank Name": "Resolute Bank",
+    "City": "Maumee",
+    "State": "OH",
+    "Cert": 58317,
+    "Acquiring Institution": "Buckeye State Bank",
+    "Closing Date": "25-Oct-2019",
+    "Fund": 10533
+  },
+  {
+    "Bank Name": "Louisa Community Bank",
+    "City": "Louisa",
+    "State": "KY",
+    "Cert": 58112,
+    "Acquiring Institution": "Kentucky Farmers Bank Corporation",
+    "Closing Date": "25-Oct-2019",
+    "Fund": 10532
+  },
+  {
+    "Bank Name": "The Enloe State Bank",
+    "City": "Cooper",
+    "State": "TX",
+    "Cert": 10716,
+    "Acquiring Institution": "Legend Bank, N. A.",
+    "Closing Date": "31-May-2019",
+    "Fund": 10531
+  },
+  {
+    "Bank Name": "Washington Federal Bank for Savings",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 30570,
+    "Acquiring Institution": "Royal Savings Bank",
+    "Closing Date": "15-Dec-2017",
+    "Fund": 10530
+  },
+  {
+    "Bank Name": "The Farmers and Merchants State Bank of Argonia",
+    "City": "Argonia",
+    "State": "KS",
+    "Cert": 17719,
+    "Acquiring Institution": "Conway Bank",
+    "Closing Date": "13-Oct-2017",
+    "Fund": 10529
+  },
+  {
+    "Bank Name": "Fayette County Bank",
+    "City": "Saint Elmo",
+    "State": "IL",
+    "Cert": 1802,
+    "Acquiring Institution": "United Fidelity Bank, fsb",
+    "Closing Date": "26-May-2017",
+    "Fund": 10528
+  },
+  {
+    "Bank Name": "Guaranty Bank, (d/b/a BestBank in Georgia & Michigan)",
+    "City": "Milwaukee",
+    "State": "WI",
+    "Cert": 30003,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "5-May-2017",
+    "Fund": 10527
+  },
+  {
+    "Bank Name": "First NBC Bank",
+    "City": "New Orleans",
+    "State": "LA",
+    "Cert": 58302,
+    "Acquiring Institution": "Whitney Bank",
+    "Closing Date": "28-Apr-2017",
+    "Fund": 10526
+  },
+  {
+    "Bank Name": "Proficio Bank",
+    "City": "Cottonwood Heights",
+    "State": "UT",
+    "Cert": 35495,
+    "Acquiring Institution": "Cache Valley Bank",
+    "Closing Date": "3-Mar-2017",
+    "Fund": 10525
+  },
+  {
+    "Bank Name": "Seaway Bank and Trust Company",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 19328,
+    "Acquiring Institution": "State Bank of Texas",
+    "Closing Date": "27-Jan-2017",
+    "Fund": 10524
+  },
+  {
+    "Bank Name": "Harvest Community Bank",
+    "City": "Pennsville",
+    "State": "NJ",
+    "Cert": 34951,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "13-Jan-2017",
+    "Fund": 10523
+  },
+  {
+    "Bank Name": "Allied Bank",
+    "City": "Mulberry",
+    "State": "AR",
+    "Cert": 91,
+    "Acquiring Institution": "Today's Bank",
+    "Closing Date": "23-Sep-2016",
+    "Fund": 10522
+  },
+  {
+    "Bank Name": "The Woodbury Banking Company",
+    "City": "Woodbury",
+    "State": "GA",
+    "Cert": 11297,
+    "Acquiring Institution": "United Bank",
+    "Closing Date": "19-Aug-2016",
+    "Fund": 10521
+  },
+  {
+    "Bank Name": "First CornerStone Bank",
+    "City": "King of Prussia",
+    "State": "PA",
+    "Cert": 35312,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "6-May-2016",
+    "Fund": 10520
+  },
+  {
+    "Bank Name": "Trust Company Bank",
+    "City": "Memphis",
+    "State": "TN",
+    "Cert": 9956,
+    "Acquiring Institution": "The Bank of Fayette County",
+    "Closing Date": "29-Apr-2016",
+    "Fund": 10519
+  },
+  {
+    "Bank Name": "North Milwaukee State Bank",
+    "City": "Milwaukee",
+    "State": "WI",
+    "Cert": 20364,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "11-Mar-2016",
+    "Fund": 10518
+  },
+  {
+    "Bank Name": "Hometown National Bank",
+    "City": "Longview",
+    "State": "WA",
+    "Cert": 35156,
+    "Acquiring Institution": "Twin City Bank",
+    "Closing Date": "2-Oct-2015",
+    "Fund": 10517
+  },
+  {
+    "Bank Name": "The Bank of Georgia",
+    "City": "Peachtree City",
+    "State": "GA",
+    "Cert": 35259,
+    "Acquiring Institution": "Fidelity Bank",
+    "Closing Date": "2-Oct-2015",
+    "Fund": 10516
+  },
+  {
+    "Bank Name": "Premier Bank",
+    "City": "Denver",
+    "State": "CO",
+    "Cert": 34112,
+    "Acquiring Institution": "United Fidelity Bank, fsb",
+    "Closing Date": "10-Jul-2015",
+    "Fund": 10515
+  },
+  {
+    "Bank Name": "Edgebrook Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 57772,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "8-May-2015",
+    "Fund": 10514
+  },
+  {
+    "Bank Name": "Doral Bank",
+    "City": "San Juan",
+    "State": "PR",
+    "Cert": 32102,
+    "Acquiring Institution": "Banco Popular de Puerto Rico",
+    "Closing Date": "27-Feb-2015",
+    "Fund": 10513
+  },
+  {
+    "Bank Name": "Capitol City Bank & Trust Company",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 33938,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "13-Feb-2015",
+    "Fund": 10512
+  },
+  {
+    "Bank Name": "Highland Community Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 20290,
+    "Acquiring Institution": "United Fidelity Bank, fsb",
+    "Closing Date": "23-Jan-2015",
+    "Fund": 10511
+  },
+  {
+    "Bank Name": "First National Bank of Crestview",
+    "City": "Crestview",
+    "State": "FL",
+    "Cert": 17557,
+    "Acquiring Institution": "First NBC Bank",
+    "Closing Date": "16-Jan-2015",
+    "Fund": 10510
+  },
+  {
+    "Bank Name": "Northern Star Bank",
+    "City": "Mankato",
+    "State": "MN",
+    "Cert": 34983,
+    "Acquiring Institution": "BankVista",
+    "Closing Date": "19-Dec-2014",
+    "Fund": 10509
+  },
+  {
+    "Bank Name": "Frontier Bank, FSB D/B/A El Paseo Bank",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Cert": 34738,
+    "Acquiring Institution": "Bank of Southern California, N.A.",
+    "Closing Date": "7-Nov-2014",
+    "Fund": 10508
+  },
+  {
+    "Bank Name": "The National Republic Bank of Chicago",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 916,
+    "Acquiring Institution": "State Bank of Texas",
+    "Closing Date": "24-Oct-2014",
+    "Fund": 10507
+  },
+  {
+    "Bank Name": "NBRS Financial",
+    "City": "Rising Sun",
+    "State": "MD",
+    "Cert": 4862,
+    "Acquiring Institution": "Howard Bank",
+    "Closing Date": "17-Oct-2014",
+    "Fund": 10506
+  },
+  {
+    "Bank Name": "GreenChoice Bank, fsb",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 28462,
+    "Acquiring Institution": "Providence Bank, LLC",
+    "Closing Date": "25-Jul-2014",
+    "Fund": 10505
+  },
+  {
+    "Bank Name": "Eastside Commercial Bank",
+    "City": "Conyers",
+    "State": "GA",
+    "Cert": 58125,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "18-Jul-2014",
+    "Fund": 10504
+  },
+  {
+    "Bank Name": "The Freedom State Bank",
+    "City": "Freedom",
+    "State": "OK",
+    "Cert": 12483,
+    "Acquiring Institution": "Alva State Bank & Trust Company",
+    "Closing Date": "27-Jun-2014",
+    "Fund": 10503
+  },
+  {
+    "Bank Name": "Valley Bank",
+    "City": "Fort Lauderdale",
+    "State": "FL",
+    "Cert": 21793,
+    "Acquiring Institution": "Landmark Bank, National Association",
+    "Closing Date": "20-Jun-2014",
+    "Fund": 10501
+  },
+  {
+    "Bank Name": "Valley Bank",
+    "City": "Moline",
+    "State": "IL",
+    "Cert": 10450,
+    "Acquiring Institution": "Great Southern Bank",
+    "Closing Date": "20-Jun-2014",
+    "Fund": 10502
+  },
+  {
+    "Bank Name": "Slavie Federal Savings Bank",
+    "City": "Bel Air",
+    "State": "MD",
+    "Cert": 32368,
+    "Acquiring Institution": "Bay Bank, FSB",
+    "Closing Date": "30-May-2014",
+    "Fund": 10500
+  },
+  {
+    "Bank Name": "Columbia Savings Bank",
+    "City": "Cincinnati",
+    "State": "OH",
+    "Cert": 32284,
+    "Acquiring Institution": "United Fidelity Bank, fsb",
+    "Closing Date": "23-May-2014",
+    "Fund": 10499
+  },
+  {
+    "Bank Name": "AztecAmerica Bank",
+    "City": "Berwyn",
+    "State": "IL",
+    "Cert": 57866,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "16-May-2014",
+    "Fund": 10498
+  },
+  {
+    "Bank Name": "Allendale County Bank",
+    "City": "Fairfax",
+    "State": "SC",
+    "Cert": 15062,
+    "Acquiring Institution": "Palmetto State Bank",
+    "Closing Date": "25-Apr-2014",
+    "Fund": 10497
+  },
+  {
+    "Bank Name": "Vantage Point Bank",
+    "City": "Horsham",
+    "State": "PA",
+    "Cert": 58531,
+    "Acquiring Institution": "First Choice Bank",
+    "Closing Date": "28-Feb-2014",
+    "Fund": 10496
+  },
+  {
+    "Bank Name": "Millennium Bank, National Association",
+    "City": "Sterling",
+    "State": "VA",
+    "Cert": 35096,
+    "Acquiring Institution": "WashingtonFirst Bank",
+    "Closing Date": "28-Feb-2014",
+    "Fund": 10495
+  },
+  {
+    "Bank Name": "Syringa Bank",
+    "City": "Boise",
+    "State": "ID",
+    "Cert": 34296,
+    "Acquiring Institution": "Sunwest Bank",
+    "Closing Date": "31-Jan-2014",
+    "Fund": 10494
+  },
+  {
+    "Bank Name": "The Bank of Union",
+    "City": "El Reno",
+    "State": "OK",
+    "Cert": 17967,
+    "Acquiring Institution": "BancFirst",
+    "Closing Date": "24-Jan-2014",
+    "Fund": 10493
+  },
+  {
+    "Bank Name": "DuPage National Bank",
+    "City": "West Chicago",
+    "State": "IL",
+    "Cert": 5732,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "17-Jan-2014",
+    "Fund": 10492
+  },
+  {
+    "Bank Name": "Texas Community Bank, National Association",
+    "City": "The Woodlands",
+    "State": "TX",
+    "Cert": 57431,
+    "Acquiring Institution": "Spirit of Texas Bank, SSB",
+    "Closing Date": "13-Dec-2013",
+    "Fund": 10491
+  },
+  {
+    "Bank Name": "Bank of Jackson County",
+    "City": "Graceville",
+    "State": "FL",
+    "Cert": 14794,
+    "Acquiring Institution": "First Federal Bank of Florida",
+    "Closing Date": "30-Oct-2013",
+    "Fund": 10490
+  },
+  {
+    "Bank Name": "First National Bank also operating as The National Bank of El Paso",
+    "City": "Edinburg",
+    "State": "TX",
+    "Cert": 14318,
+    "Acquiring Institution": "PlainsCapital Bank",
+    "Closing Date": "13-Sep-2013",
+    "Fund": 10488
+  },
+  {
+    "Bank Name": "The Community's Bank",
+    "City": "Bridgeport",
+    "State": "CT",
+    "Cert": 57041,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "13-Sep-2013",
+    "Fund": 10489
+  },
+  {
+    "Bank Name": "Sunrise Bank of Arizona",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 34707,
+    "Acquiring Institution": "First Fidelity Bank, National Association",
+    "Closing Date": "23-Aug-2013",
+    "Fund": 10487
+  },
+  {
+    "Bank Name": "Community South Bank",
+    "City": "Parsons",
+    "State": "TN",
+    "Cert": 19849,
+    "Acquiring Institution": "CB&S Bank, Inc.",
+    "Closing Date": "23-Aug-2013",
+    "Fund": 10486
+  },
+  {
+    "Bank Name": "Bank of Wausau",
+    "City": "Wausau",
+    "State": "WI",
+    "Cert": 35016,
+    "Acquiring Institution": "Nicolet National Bank",
+    "Closing Date": "9-Aug-2013",
+    "Fund": 10485
+  },
+  {
+    "Bank Name": "First Community Bank of Southwest Florida (also operating as Community Bank of Cape Coral)",
+    "City": "Fort Myers",
+    "State": "FL",
+    "Cert": 34943,
+    "Acquiring Institution": "C1 Bank",
+    "Closing Date": "2-Aug-2013",
+    "Fund": 10484
+  },
+  {
+    "Bank Name": "Mountain National Bank",
+    "City": "Sevierville",
+    "State": "TN",
+    "Cert": 34789,
+    "Acquiring Institution": "First Tennessee Bank, National Association",
+    "Closing Date": "7-Jun-2013",
+    "Fund": 10483
+  },
+  {
+    "Bank Name": "1st Commerce Bank",
+    "City": "North Las Vegas",
+    "State": "NV",
+    "Cert": 58358,
+    "Acquiring Institution": "Plaza Bank",
+    "Closing Date": "6-Jun-2013",
+    "Fund": 10482
+  },
+  {
+    "Bank Name": "Banks of Wisconsin d/b/a Bank of Kenosha",
+    "City": "Kenosha",
+    "State": "WI",
+    "Cert": 35386,
+    "Acquiring Institution": "North Shore Bank, FSB",
+    "Closing Date": "31-May-2013",
+    "Fund": 10478
+  },
+  {
+    "Bank Name": "Central Arizona Bank",
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Cert": 34527,
+    "Acquiring Institution": "Western State Bank",
+    "Closing Date": "14-May-2013",
+    "Fund": 10479
+  },
+  {
+    "Bank Name": "Sunrise Bank",
+    "City": "Valdosta",
+    "State": "GA",
+    "Cert": 58185,
+    "Acquiring Institution": "Synovus Bank",
+    "Closing Date": "10-May-2013",
+    "Fund": 10481
+  },
+  {
+    "Bank Name": "Pisgah Community Bank",
+    "City": "Asheville",
+    "State": "NC",
+    "Cert": 58701,
+    "Acquiring Institution": "Capital Bank, N.A.",
+    "Closing Date": "10-May-2013",
+    "Fund": 10480
+  },
+  {
+    "Bank Name": "Douglas County Bank",
+    "City": "Douglasville",
+    "State": "GA",
+    "Cert": 21649,
+    "Acquiring Institution": "Hamilton State Bank",
+    "Closing Date": "26-Apr-2013",
+    "Fund": 10476
+  },
+  {
+    "Bank Name": "Parkway Bank",
+    "City": "Lenoir",
+    "State": "NC",
+    "Cert": 57158,
+    "Acquiring Institution": "CertusBank, National Association",
+    "Closing Date": "26-Apr-2013",
+    "Fund": 10477
+  },
+  {
+    "Bank Name": "Chipola Community Bank",
+    "City": "Marianna",
+    "State": "FL",
+    "Cert": 58034,
+    "Acquiring Institution": "First Federal Bank of Florida",
+    "Closing Date": "19-Apr-2013",
+    "Fund": 10473
+  },
+  {
+    "Bank Name": "Heritage Bank of North Florida",
+    "City": "Orange Park",
+    "State": "FL",
+    "Cert": 26680,
+    "Acquiring Institution": "FirstAtlantic Bank",
+    "Closing Date": "19-Apr-2013",
+    "Fund": 10475
+  },
+  {
+    "Bank Name": "First Federal Bank",
+    "City": "Lexington",
+    "State": "KY",
+    "Cert": 29594,
+    "Acquiring Institution": "Your Community Bank",
+    "Closing Date": "19-Apr-2013",
+    "Fund": 10474
+  },
+  {
+    "Bank Name": "Gold Canyon Bank",
+    "City": "Gold Canyon",
+    "State": "AZ",
+    "Cert": 58066,
+    "Acquiring Institution": "First Scottsdale Bank, National Association",
+    "Closing Date": "5-Apr-2013",
+    "Fund": 10472
+  },
+  {
+    "Bank Name": "Frontier Bank",
+    "City": "LaGrange",
+    "State": "GA",
+    "Cert": 16431,
+    "Acquiring Institution": "HeritageBank of the South",
+    "Closing Date": "8-Mar-2013",
+    "Fund": 10471
+  },
+  {
+    "Bank Name": "Covenant Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 22476,
+    "Acquiring Institution": "Liberty Bank and Trust Company",
+    "Closing Date": "15-Feb-2013",
+    "Fund": 10470
+  },
+  {
+    "Bank Name": "1st Regents Bank",
+    "City": "Andover",
+    "State": "MN",
+    "Cert": 57157,
+    "Acquiring Institution": "First Minnesota Bank",
+    "Closing Date": "18-Jan-2013",
+    "Fund": 10469
+  },
+  {
+    "Bank Name": "Westside Community Bank",
+    "City": "University Place",
+    "State": "WA",
+    "Cert": 33997,
+    "Acquiring Institution": "Sunwest Bank",
+    "Closing Date": "11-Jan-2013",
+    "Fund": 10468
+  },
+  {
+    "Bank Name": "Community Bank of the Ozarks",
+    "City": "Sunrise Beach",
+    "State": "MO",
+    "Cert": 27331,
+    "Acquiring Institution": "Bank of Sullivan",
+    "Closing Date": "14-Dec-2012",
+    "Fund": 10467
+  },
+  {
+    "Bank Name": "Hometown Community Bank",
+    "City": "Braselton",
+    "State": "GA",
+    "Cert": 57928,
+    "Acquiring Institution": "CertusBank, National Association",
+    "Closing Date": "16-Nov-2012",
+    "Fund": 10466
+  },
+  {
+    "Bank Name": "Citizens First National Bank",
+    "City": "Princeton",
+    "State": "IL",
+    "Cert": 3731,
+    "Acquiring Institution": "Heartland Bank and Trust Company",
+    "Closing Date": "2-Nov-2012",
+    "Fund": 10464
+  },
+  {
+    "Bank Name": "Heritage Bank of Florida",
+    "City": "Lutz",
+    "State": "FL",
+    "Cert": 35009,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "2-Nov-2012",
+    "Fund": 10465
+  },
+  {
+    "Bank Name": "NOVA Bank",
+    "City": "Berwyn",
+    "State": "PA",
+    "Cert": 27148,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "26-Oct-2012",
+    "Fund": 10463
+  },
+  {
+    "Bank Name": "Excel Bank",
+    "City": "Sedalia",
+    "State": "MO",
+    "Cert": 19189,
+    "Acquiring Institution": "Simmons First National Bank",
+    "Closing Date": "19-Oct-2012",
+    "Fund": 10460
+  },
+  {
+    "Bank Name": "First East Side Savings Bank",
+    "City": "Tamarac",
+    "State": "FL",
+    "Cert": 28144,
+    "Acquiring Institution": "Stearns Bank N.A.",
+    "Closing Date": "19-Oct-2012",
+    "Fund": 10461
+  },
+  {
+    "Bank Name": "GulfSouth Private Bank",
+    "City": "Destin",
+    "State": "FL",
+    "Cert": 58073,
+    "Acquiring Institution": "SmartBank",
+    "Closing Date": "19-Oct-2012",
+    "Fund": 10462
+  },
+  {
+    "Bank Name": "First United Bank",
+    "City": "Crete",
+    "State": "IL",
+    "Cert": 20685,
+    "Acquiring Institution": "Old Plank Trail Community Bank, National Association",
+    "Closing Date": "28-Sep-2012",
+    "Fund": 10459
+  },
+  {
+    "Bank Name": "Truman Bank",
+    "City": "St. Louis",
+    "State": "MO",
+    "Cert": 27316,
+    "Acquiring Institution": "Simmons First National Bank",
+    "Closing Date": "14-Sep-2012",
+    "Fund": 10458
+  },
+  {
+    "Bank Name": "First Commercial Bank",
+    "City": "Bloomington",
+    "State": "MN",
+    "Cert": 35246,
+    "Acquiring Institution": "Republic Bank & Trust Company",
+    "Closing Date": "7-Sep-2012",
+    "Fund": 10457
+  },
+  {
+    "Bank Name": "Waukegan Savings Bank",
+    "City": "Waukegan",
+    "State": "IL",
+    "Cert": 28243,
+    "Acquiring Institution": "First Midwest Bank",
+    "Closing Date": "3-Aug-2012",
+    "Fund": 10456
+  },
+  {
+    "Bank Name": "Jasper Banking Company",
+    "City": "Jasper",
+    "State": "GA",
+    "Cert": 16240,
+    "Acquiring Institution": "Stearns Bank N.A.",
+    "Closing Date": "27-Jul-2012",
+    "Fund": 10455
+  },
+  {
+    "Bank Name": "Second Federal Savings and Loan Association of Chicago",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 27986,
+    "Acquiring Institution": "Hinsdale Bank & Trust Company",
+    "Closing Date": "20-Jul-2012",
+    "Fund": 10453
+  },
+  {
+    "Bank Name": "Heartland Bank",
+    "City": "Leawood",
+    "State": "KS",
+    "Cert": 1361,
+    "Acquiring Institution": "Metcalf Bank",
+    "Closing Date": "20-Jul-2012",
+    "Fund": 10452
+  },
+  {
+    "Bank Name": "First Cherokee State Bank",
+    "City": "Woodstock",
+    "State": "GA",
+    "Cert": 32711,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "20-Jul-2012",
+    "Fund": 10450
+  },
+  {
+    "Bank Name": "Georgia Trust Bank",
+    "City": "Buford",
+    "State": "GA",
+    "Cert": 57847,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "20-Jul-2012",
+    "Fund": 10451
+  },
+  {
+    "Bank Name": "The Royal Palm Bank of Florida",
+    "City": "Naples",
+    "State": "FL",
+    "Cert": 57096,
+    "Acquiring Institution": "First National Bank of the Gulf Coast",
+    "Closing Date": "20-Jul-2012",
+    "Fund": 10454
+  },
+  {
+    "Bank Name": "Glasgow Savings Bank",
+    "City": "Glasgow",
+    "State": "MO",
+    "Cert": 1056,
+    "Acquiring Institution": "Regional Missouri Bank",
+    "Closing Date": "13-Jul-2012",
+    "Fund": 10449
+  },
+  {
+    "Bank Name": "Montgomery Bank & Trust",
+    "City": "Ailey",
+    "State": "GA",
+    "Cert": 19498,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "6-Jul-2012",
+    "Fund": 10448
+  },
+  {
+    "Bank Name": "The Farmers Bank of Lynchburg",
+    "City": "Lynchburg",
+    "State": "TN",
+    "Cert": 1690,
+    "Acquiring Institution": "Clayton Bank and Trust",
+    "Closing Date": "15-Jun-2012",
+    "Fund": 10447
+  },
+  {
+    "Bank Name": "Security Exchange Bank",
+    "City": "Marietta",
+    "State": "GA",
+    "Cert": 35299,
+    "Acquiring Institution": "Fidelity Bank",
+    "Closing Date": "15-Jun-2012",
+    "Fund": 10446
+  },
+  {
+    "Bank Name": "Putnam State Bank",
+    "City": "Palatka",
+    "State": "FL",
+    "Cert": 27405,
+    "Acquiring Institution": "Harbor Community Bank",
+    "Closing Date": "15-Jun-2012",
+    "Fund": 10445
+  },
+  {
+    "Bank Name": "Waccamaw Bank",
+    "City": "Whiteville",
+    "State": "NC",
+    "Cert": 34515,
+    "Acquiring Institution": "First Community Bank",
+    "Closing Date": "8-Jun-2012",
+    "Fund": 10444
+  },
+  {
+    "Bank Name": "Farmers' and Traders' State Bank",
+    "City": "Shabbona",
+    "State": "IL",
+    "Cert": 9257,
+    "Acquiring Institution": "First State Bank",
+    "Closing Date": "8-Jun-2012",
+    "Fund": 10442
+  },
+  {
+    "Bank Name": "Carolina Federal Savings Bank",
+    "City": "Charleston",
+    "State": "SC",
+    "Cert": 35372,
+    "Acquiring Institution": "Bank of North Carolina",
+    "Closing Date": "8-Jun-2012",
+    "Fund": 10441
+  },
+  {
+    "Bank Name": "First Capital Bank",
+    "City": "Kingfisher",
+    "State": "OK",
+    "Cert": 416,
+    "Acquiring Institution": "F & M Bank",
+    "Closing Date": "8-Jun-2012",
+    "Fund": 10443
+  },
+  {
+    "Bank Name": "Alabama Trust Bank, National Association",
+    "City": "Sylacauga",
+    "State": "AL",
+    "Cert": 35224,
+    "Acquiring Institution": "Southern States Bank",
+    "Closing Date": "18-May-2012",
+    "Fund": 10440
+  },
+  {
+    "Bank Name": "Security Bank, National Association",
+    "City": "North Lauderdale",
+    "State": "FL",
+    "Cert": 23156,
+    "Acquiring Institution": "Banesco USA",
+    "Closing Date": "4-May-2012",
+    "Fund": 10439
+  },
+  {
+    "Bank Name": "Palm Desert National Bank",
+    "City": "Palm Desert",
+    "State": "CA",
+    "Cert": 23632,
+    "Acquiring Institution": "Pacific Premier Bank",
+    "Closing Date": "27-Apr-2012",
+    "Fund": 10437
+  },
+  {
+    "Bank Name": "Plantation Federal Bank",
+    "City": "Pawleys Island",
+    "State": "SC",
+    "Cert": 32503,
+    "Acquiring Institution": "First Federal Bank",
+    "Closing Date": "27-Apr-2012",
+    "Fund": 10438
+  },
+  {
+    "Bank Name": "Inter Savings Bank, fsb D/B/A InterBank, fsb",
+    "City": "Maple Grove",
+    "State": "MN",
+    "Cert": 31495,
+    "Acquiring Institution": "Great Southern Bank",
+    "Closing Date": "27-Apr-2012",
+    "Fund": 10436
+  },
+  {
+    "Bank Name": "HarVest Bank of Maryland",
+    "City": "Gaithersburg",
+    "State": "MD",
+    "Cert": 57766,
+    "Acquiring Institution": "Sonabank",
+    "Closing Date": "27-Apr-2012",
+    "Fund": 10435
+  },
+  {
+    "Bank Name": "Bank of the Eastern Shore",
+    "City": "Cambridge",
+    "State": "MD",
+    "Cert": 26759,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "27-Apr-2012",
+    "Fund": 10434
+  },
+  {
+    "Bank Name": "Fort Lee Federal Savings Bank, FSB",
+    "City": "Fort Lee",
+    "State": "NJ",
+    "Cert": 35527,
+    "Acquiring Institution": "Alma Bank",
+    "Closing Date": "20-Apr-2012",
+    "Fund": 10433
+  },
+  {
+    "Bank Name": "Fidelity Bank",
+    "City": "Dearborn",
+    "State": "MI",
+    "Cert": 33883,
+    "Acquiring Institution": "The Huntington National Bank",
+    "Closing Date": "30-Mar-2012",
+    "Fund": 10432
+  },
+  {
+    "Bank Name": "Premier Bank",
+    "City": "Wilmette",
+    "State": "IL",
+    "Cert": 35419,
+    "Acquiring Institution": "International Bank of Chicago",
+    "Closing Date": "23-Mar-2012",
+    "Fund": 10431
+  },
+  {
+    "Bank Name": "Covenant Bank & Trust",
+    "City": "Rock Spring",
+    "State": "GA",
+    "Cert": 58068,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "23-Mar-2012",
+    "Fund": 10430
+  },
+  {
+    "Bank Name": "New City Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 57597,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "9-Mar-2012",
+    "Fund": 10429
+  },
+  {
+    "Bank Name": "Global Commerce Bank",
+    "City": "Doraville",
+    "State": "GA",
+    "Cert": 34046,
+    "Acquiring Institution": "Metro City Bank",
+    "Closing Date": "2-Mar-2012",
+    "Fund": 10428
+  },
+  {
+    "Bank Name": "Home Savings of America",
+    "City": "Little Falls",
+    "State": "MN",
+    "Cert": 29178,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "24-Feb-2012",
+    "Fund": 10427
+  },
+  {
+    "Bank Name": "Central Bank of Georgia",
+    "City": "Ellaville",
+    "State": "GA",
+    "Cert": 5687,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "24-Feb-2012",
+    "Fund": 10426
+  },
+  {
+    "Bank Name": "SCB Bank",
+    "City": "Shelbyville",
+    "State": "IN",
+    "Cert": 29761,
+    "Acquiring Institution": "First Merchants Bank, National Association",
+    "Closing Date": "10-Feb-2012",
+    "Fund": 10425
+  },
+  {
+    "Bank Name": "Charter National Bank and Trust",
+    "City": "Hoffman Estates",
+    "State": "IL",
+    "Cert": 23187,
+    "Acquiring Institution": "Barrington Bank & Trust Company, National Association",
+    "Closing Date": "10-Feb-2012",
+    "Fund": 10424
+  },
+  {
+    "Bank Name": "BankEast",
+    "City": "Knoxville",
+    "State": "TN",
+    "Cert": 19869,
+    "Acquiring Institution": "U.S. Bank, N.A.",
+    "Closing Date": "27-Jan-2012",
+    "Fund": 10420
+  },
+  {
+    "Bank Name": "Patriot Bank Minnesota",
+    "City": "Forest Lake",
+    "State": "MN",
+    "Cert": 34823,
+    "Acquiring Institution": "First Resource Bank",
+    "Closing Date": "27-Jan-2012",
+    "Fund": 10422
+  },
+  {
+    "Bank Name": "Tennessee Commerce Bank",
+    "City": "Franklin",
+    "State": "TN",
+    "Cert": 35296,
+    "Acquiring Institution": "Republic Bank & Trust Company",
+    "Closing Date": "27-Jan-2012",
+    "Fund": 10423
+  },
+  {
+    "Bank Name": "First Guaranty Bank and Trust Company of Jacksonville",
+    "City": "Jacksonville",
+    "State": "FL",
+    "Cert": 16579,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "27-Jan-2012",
+    "Fund": 10421
+  },
+  {
+    "Bank Name": "American Eagle Savings Bank",
+    "City": "Boothwyn",
+    "State": "PA",
+    "Cert": 31581,
+    "Acquiring Institution": "Capital Bank, N.A.",
+    "Closing Date": "20-Jan-2012",
+    "Fund": 10417
+  },
+  {
+    "Bank Name": "The First State Bank",
+    "City": "Stockbridge",
+    "State": "GA",
+    "Cert": 19252,
+    "Acquiring Institution": "Hamilton State Bank",
+    "Closing Date": "20-Jan-2012",
+    "Fund": 10419
+  },
+  {
+    "Bank Name": "Central Florida State Bank",
+    "City": "Belleview",
+    "State": "FL",
+    "Cert": 57186,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "20-Jan-2012",
+    "Fund": 10418
+  },
+  {
+    "Bank Name": "Western National Bank",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 57917,
+    "Acquiring Institution": "Washington Federal",
+    "Closing Date": "16-Dec-2011",
+    "Fund": 10416
+  },
+  {
+    "Bank Name": "Premier Community Bank of the Emerald Coast",
+    "City": "Crestview",
+    "State": "FL",
+    "Cert": 58343,
+    "Acquiring Institution": "Summit Bank",
+    "Closing Date": "16-Dec-2011",
+    "Fund": 10415
+  },
+  {
+    "Bank Name": "Central Progressive Bank",
+    "City": "Lacombe",
+    "State": "LA",
+    "Cert": 19657,
+    "Acquiring Institution": "First NBC Bank",
+    "Closing Date": "18-Nov-2011",
+    "Fund": 10413
+  },
+  {
+    "Bank Name": "Polk County Bank",
+    "City": "Johnston",
+    "State": "IA",
+    "Cert": 14194,
+    "Acquiring Institution": "Grinnell State Bank",
+    "Closing Date": "18-Nov-2011",
+    "Fund": 10414
+  },
+  {
+    "Bank Name": "Community Bank of Rockmart",
+    "City": "Rockmart",
+    "State": "GA",
+    "Cert": 57860,
+    "Acquiring Institution": "Century Bank of Georgia",
+    "Closing Date": "10-Nov-2011",
+    "Fund": 10412
+  },
+  {
+    "Bank Name": "SunFirst Bank",
+    "City": "Saint George",
+    "State": "UT",
+    "Cert": 57087,
+    "Acquiring Institution": "Cache Valley Bank",
+    "Closing Date": "4-Nov-2011",
+    "Fund": 10411
+  },
+  {
+    "Bank Name": "Mid City Bank, Inc.",
+    "City": "Omaha",
+    "State": "NE",
+    "Cert": 19397,
+    "Acquiring Institution": "Premier Bank",
+    "Closing Date": "4-Nov-2011",
+    "Fund": 10410
+  },
+  {
+    "Bank Name": "All American Bank",
+    "City": "Des Plaines",
+    "State": "IL",
+    "Cert": 57759,
+    "Acquiring Institution": "International Bank of Chicago",
+    "Closing Date": "28-Oct-2011",
+    "Fund": 10409
+  },
+  {
+    "Bank Name": "Community Banks of Colorado",
+    "City": "Greenwood Village",
+    "State": "CO",
+    "Cert": 21132,
+    "Acquiring Institution": "Bank Midwest, N.A.",
+    "Closing Date": "21-Oct-2011",
+    "Fund": 10405
+  },
+  {
+    "Bank Name": "Community Capital Bank",
+    "City": "Jonesboro",
+    "State": "GA",
+    "Cert": 57036,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "21-Oct-2011",
+    "Fund": 10406
+  },
+  {
+    "Bank Name": "Decatur First Bank",
+    "City": "Decatur",
+    "State": "GA",
+    "Cert": 34392,
+    "Acquiring Institution": "Fidelity Bank",
+    "Closing Date": "21-Oct-2011",
+    "Fund": 10407
+  },
+  {
+    "Bank Name": "Old Harbor Bank",
+    "City": "Clearwater",
+    "State": "FL",
+    "Cert": 57537,
+    "Acquiring Institution": "1st United Bank",
+    "Closing Date": "21-Oct-2011",
+    "Fund": 10408
+  },
+  {
+    "Bank Name": "Country Bank",
+    "City": "Aledo",
+    "State": "IL",
+    "Cert": 35395,
+    "Acquiring Institution": "Blackhawk Bank & Trust",
+    "Closing Date": "14-Oct-2011",
+    "Fund": 10402
+  },
+  {
+    "Bank Name": "First State Bank",
+    "City": "Cranford",
+    "State": "NJ",
+    "Cert": 58046,
+    "Acquiring Institution": "Northfield Bank",
+    "Closing Date": "14-Oct-2011",
+    "Fund": 10403
+  },
+  {
+    "Bank Name": "Blue Ridge Savings Bank, Inc.",
+    "City": "Asheville",
+    "State": "NC",
+    "Cert": 32347,
+    "Acquiring Institution": "Bank of North Carolina",
+    "Closing Date": "14-Oct-2011",
+    "Fund": 10401
+  },
+  {
+    "Bank Name": "Piedmont Community Bank",
+    "City": "Gray",
+    "State": "GA",
+    "Cert": 57256,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "14-Oct-2011",
+    "Fund": 10404
+  },
+  {
+    "Bank Name": "Sun Security Bank",
+    "City": "Ellington",
+    "State": "MO",
+    "Cert": 20115,
+    "Acquiring Institution": "Great Southern Bank",
+    "Closing Date": "7-Oct-2011",
+    "Fund": 10400
+  },
+  {
+    "Bank Name": "The RiverBank",
+    "City": "Wyoming",
+    "State": "MN",
+    "Cert": 10216,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "7-Oct-2011",
+    "Fund": 10399
+  },
+  {
+    "Bank Name": "First International Bank",
+    "City": "Plano",
+    "State": "TX",
+    "Cert": 33513,
+    "Acquiring Institution": "American First National Bank",
+    "Closing Date": "30-Sep-2011",
+    "Fund": 10398
+  },
+  {
+    "Bank Name": "Citizens Bank of Northern California",
+    "City": "Nevada City",
+    "State": "CA",
+    "Cert": 33983,
+    "Acquiring Institution": "Tri Counties Bank",
+    "Closing Date": "23-Sep-2011",
+    "Fund": 10397
+  },
+  {
+    "Bank Name": "Bank of the Commonwealth",
+    "City": "Norfolk",
+    "State": "VA",
+    "Cert": 20408,
+    "Acquiring Institution": "Southern Bank and Trust Company",
+    "Closing Date": "23-Sep-2011",
+    "Fund": 10396
+  },
+  {
+    "Bank Name": "The First National Bank of Florida",
+    "City": "Milton",
+    "State": "FL",
+    "Cert": 25155,
+    "Acquiring Institution": "CharterBank",
+    "Closing Date": "9-Sep-2011",
+    "Fund": 10395
+  },
+  {
+    "Bank Name": "CreekSide Bank",
+    "City": "Woodstock",
+    "State": "GA",
+    "Cert": 58226,
+    "Acquiring Institution": "Georgia Commerce Bank",
+    "Closing Date": "2-Sep-2011",
+    "Fund": 10393
+  },
+  {
+    "Bank Name": "Patriot Bank of Georgia",
+    "City": "Cumming",
+    "State": "GA",
+    "Cert": 58273,
+    "Acquiring Institution": "Georgia Commerce Bank",
+    "Closing Date": "2-Sep-2011",
+    "Fund": 10394
+  },
+  {
+    "Bank Name": "First Choice Bank",
+    "City": "Geneva",
+    "State": "IL",
+    "Cert": 57212,
+    "Acquiring Institution": "Inland Bank & Trust",
+    "Closing Date": "19-Aug-2011",
+    "Fund": 10390
+  },
+  {
+    "Bank Name": "First Southern National Bank",
+    "City": "Statesboro",
+    "State": "GA",
+    "Cert": 57239,
+    "Acquiring Institution": "Heritage Bank of the South",
+    "Closing Date": "19-Aug-2011",
+    "Fund": 10391
+  },
+  {
+    "Bank Name": "Lydian Private Bank",
+    "City": "Palm Beach",
+    "State": "FL",
+    "Cert": 35356,
+    "Acquiring Institution": "Sabadell United Bank, N.A.",
+    "Closing Date": "19-Aug-2011",
+    "Fund": 10392
+  },
+  {
+    "Bank Name": "Public Savings Bank",
+    "City": "Huntingdon Valley",
+    "State": "PA",
+    "Cert": 34130,
+    "Acquiring Institution": "Capital Bank, N.A.",
+    "Closing Date": "18-Aug-2011",
+    "Fund": 10389
+  },
+  {
+    "Bank Name": "The First National Bank of Olathe",
+    "City": "Olathe",
+    "State": "KS",
+    "Cert": 4744,
+    "Acquiring Institution": "Enterprise Bank & Trust",
+    "Closing Date": "12-Aug-2011",
+    "Fund": 10388
+  },
+  {
+    "Bank Name": "Bank of Whitman",
+    "City": "Colfax",
+    "State": "WA",
+    "Cert": 22528,
+    "Acquiring Institution": "Columbia State Bank",
+    "Closing Date": "5-Aug-2011",
+    "Fund": 10387
+  },
+  {
+    "Bank Name": "Bank of Shorewood",
+    "City": "Shorewood",
+    "State": "IL",
+    "Cert": 22637,
+    "Acquiring Institution": "Heartland Bank and Trust Company",
+    "Closing Date": "5-Aug-2011",
+    "Fund": 10386
+  },
+  {
+    "Bank Name": "Integra Bank National Association",
+    "City": "Evansville",
+    "State": "IN",
+    "Cert": 4392,
+    "Acquiring Institution": "Old National Bank",
+    "Closing Date": "29-Jul-2011",
+    "Fund": 10384
+  },
+  {
+    "Bank Name": "BankMeridian, N.A.",
+    "City": "Columbia",
+    "State": "SC",
+    "Cert": 58222,
+    "Acquiring Institution": "SCBT National Association",
+    "Closing Date": "29-Jul-2011",
+    "Fund": 10383
+  },
+  {
+    "Bank Name": "Virginia Business Bank",
+    "City": "Richmond",
+    "State": "VA",
+    "Cert": 58283,
+    "Acquiring Institution": "Xenith Bank",
+    "Closing Date": "29-Jul-2011",
+    "Fund": 10385
+  },
+  {
+    "Bank Name": "Bank of Choice",
+    "City": "Greeley",
+    "State": "CO",
+    "Cert": 2994,
+    "Acquiring Institution": "Bank Midwest, N.A.",
+    "Closing Date": "22-Jul-2011",
+    "Fund": 10380
+  },
+  {
+    "Bank Name": "LandMark Bank of Florida",
+    "City": "Sarasota",
+    "State": "FL",
+    "Cert": 35244,
+    "Acquiring Institution": "American Momentum Bank",
+    "Closing Date": "22-Jul-2011",
+    "Fund": 10381
+  },
+  {
+    "Bank Name": "Southshore Community Bank",
+    "City": "Apollo Beach",
+    "State": "FL",
+    "Cert": 58056,
+    "Acquiring Institution": "American Momentum Bank",
+    "Closing Date": "22-Jul-2011",
+    "Fund": 10382
+  },
+  {
+    "Bank Name": "Summit Bank",
+    "City": "Prescott",
+    "State": "AZ",
+    "Cert": 57442,
+    "Acquiring Institution": "The Foothills Bank",
+    "Closing Date": "15-Jul-2011",
+    "Fund": 10379
+  },
+  {
+    "Bank Name": "First Peoples Bank",
+    "City": "Port St. Lucie",
+    "State": "FL",
+    "Cert": 34870,
+    "Acquiring Institution": "Premier American Bank, N.A.",
+    "Closing Date": "15-Jul-2011",
+    "Fund": 10376
+  },
+  {
+    "Bank Name": "High Trust Bank",
+    "City": "Stockbridge",
+    "State": "GA",
+    "Cert": 19554,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "15-Jul-2011",
+    "Fund": 10377
+  },
+  {
+    "Bank Name": "One Georgia Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 58238,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "15-Jul-2011",
+    "Fund": 10378
+  },
+  {
+    "Bank Name": "Signature Bank",
+    "City": "Windsor",
+    "State": "CO",
+    "Cert": 57835,
+    "Acquiring Institution": "Points West Community Bank",
+    "Closing Date": "8-Jul-2011",
+    "Fund": 10375
+  },
+  {
+    "Bank Name": "Colorado Capital Bank",
+    "City": "Castle Rock",
+    "State": "CO",
+    "Cert": 34522,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "8-Jul-2011",
+    "Fund": 10373
+  },
+  {
+    "Bank Name": "First Chicago Bank & Trust",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 27935,
+    "Acquiring Institution": "Northbrook Bank & Trust Company",
+    "Closing Date": "8-Jul-2011",
+    "Fund": 10374
+  },
+  {
+    "Bank Name": "Mountain Heritage Bank",
+    "City": "Clayton",
+    "State": "GA",
+    "Cert": 57593,
+    "Acquiring Institution": "First American Bank and Trust Company",
+    "Closing Date": "24-Jun-2011",
+    "Fund": 10372
+  },
+  {
+    "Bank Name": "First Commercial Bank of Tampa Bay",
+    "City": "Tampa",
+    "State": "FL",
+    "Cert": 27583,
+    "Acquiring Institution": "Stonegate Bank",
+    "Closing Date": "17-Jun-2011",
+    "Fund": 10370
+  },
+  {
+    "Bank Name": "McIntosh State Bank",
+    "City": "Jackson",
+    "State": "GA",
+    "Cert": 19237,
+    "Acquiring Institution": "Hamilton State Bank",
+    "Closing Date": "17-Jun-2011",
+    "Fund": 10371
+  },
+  {
+    "Bank Name": "Atlantic Bank and Trust",
+    "City": "Charleston",
+    "State": "SC",
+    "Cert": 58420,
+    "Acquiring Institution": "First Citizens Bank and Trust Company, Inc.",
+    "Closing Date": "3-Jun-2011",
+    "Fund": 10369
+  },
+  {
+    "Bank Name": "First Heritage Bank",
+    "City": "Snohomish",
+    "State": "WA",
+    "Cert": 23626,
+    "Acquiring Institution": "Columbia State Bank",
+    "Closing Date": "27-May-2011",
+    "Fund": 10368
+  },
+  {
+    "Bank Name": "Summit Bank",
+    "City": "Burlington",
+    "State": "WA",
+    "Cert": 513,
+    "Acquiring Institution": "Columbia State Bank",
+    "Closing Date": "20-May-2011",
+    "Fund": 10367
+  },
+  {
+    "Bank Name": "First Georgia Banking Company",
+    "City": "Franklin",
+    "State": "GA",
+    "Cert": 57647,
+    "Acquiring Institution": "CertusBank, National Association",
+    "Closing Date": "20-May-2011",
+    "Fund": 10366
+  },
+  {
+    "Bank Name": "Atlantic Southern Bank",
+    "City": "Macon",
+    "State": "GA",
+    "Cert": 57213,
+    "Acquiring Institution": "CertusBank, National Association",
+    "Closing Date": "20-May-2011",
+    "Fund": 10365
+  },
+  {
+    "Bank Name": "Coastal Bank",
+    "City": "Cocoa Beach",
+    "State": "FL",
+    "Cert": 34898,
+    "Acquiring Institution": "Florida Community Bank, a division of Premier American Bank, N.A.",
+    "Closing Date": "6-May-2011",
+    "Fund": 10364
+  },
+  {
+    "Bank Name": "Community Central Bank",
+    "City": "Mount Clemens",
+    "State": "MI",
+    "Cert": 34234,
+    "Acquiring Institution": "Talmer Bank & Trust",
+    "Closing Date": "29-Apr-2011",
+    "Fund": 10359
+  },
+  {
+    "Bank Name": "The Park Avenue Bank",
+    "City": "Valdosta",
+    "State": "GA",
+    "Cert": 19797,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "29-Apr-2011",
+    "Fund": 10363
+  },
+  {
+    "Bank Name": "First Choice Community Bank",
+    "City": "Dallas",
+    "State": "GA",
+    "Cert": 58539,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "29-Apr-2011",
+    "Fund": 10361
+  },
+  {
+    "Bank Name": "Cortez Community Bank",
+    "City": "Brooksville",
+    "State": "FL",
+    "Cert": 57625,
+    "Acquiring Institution": "Florida Community Bank, a division of Premier American Bank, N.A.",
+    "Closing Date": "29-Apr-2011",
+    "Fund": 10360
+  },
+  {
+    "Bank Name": "First National Bank of Central Florida",
+    "City": "Winter Park",
+    "State": "FL",
+    "Cert": 26297,
+    "Acquiring Institution": "Florida Community Bank, a division of Premier American Bank, N.A.",
+    "Closing Date": "29-Apr-2011",
+    "Fund": 10362
+  },
+  {
+    "Bank Name": "Heritage Banking Group",
+    "City": "Carthage",
+    "State": "MS",
+    "Cert": 14273,
+    "Acquiring Institution": "Trustmark National Bank",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10354
+  },
+  {
+    "Bank Name": "Rosemount National Bank",
+    "City": "Rosemount",
+    "State": "MN",
+    "Cert": 24099,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10357
+  },
+  {
+    "Bank Name": "Superior Bank",
+    "City": "Birmingham",
+    "State": "AL",
+    "Cert": 17750,
+    "Acquiring Institution": "Superior Bank, National Association",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10358
+  },
+  {
+    "Bank Name": "Nexity Bank",
+    "City": "Birmingham",
+    "State": "AL",
+    "Cert": 19794,
+    "Acquiring Institution": "AloStar Bank of Commerce",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10356
+  },
+  {
+    "Bank Name": "New Horizons Bank",
+    "City": "East Ellijay",
+    "State": "GA",
+    "Cert": 57705,
+    "Acquiring Institution": "Citizens South Bank",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10355
+  },
+  {
+    "Bank Name": "Bartow County Bank",
+    "City": "Cartersville",
+    "State": "GA",
+    "Cert": 21495,
+    "Acquiring Institution": "Hamilton State Bank",
+    "Closing Date": "15-Apr-2011",
+    "Fund": 10353
+  },
+  {
+    "Bank Name": "Nevada Commerce Bank",
+    "City": "Las Vegas",
+    "State": "NV",
+    "Cert": 35418,
+    "Acquiring Institution": "City National Bank",
+    "Closing Date": "8-Apr-2011",
+    "Fund": 10351
+  },
+  {
+    "Bank Name": "Western Springs National Bank and Trust",
+    "City": "Western Springs",
+    "State": "IL",
+    "Cert": 10086,
+    "Acquiring Institution": "Heartland Bank and Trust Company",
+    "Closing Date": "8-Apr-2011",
+    "Fund": 10352
+  },
+  {
+    "Bank Name": "The Bank of Commerce",
+    "City": "Wood Dale",
+    "State": "IL",
+    "Cert": 34292,
+    "Acquiring Institution": "Advantage National Bank Group",
+    "Closing Date": "25-Mar-2011",
+    "Fund": 10350
+  },
+  {
+    "Bank Name": "Legacy Bank",
+    "City": "Milwaukee",
+    "State": "WI",
+    "Cert": 34818,
+    "Acquiring Institution": "Seaway Bank and Trust Company",
+    "Closing Date": "11-Mar-2011",
+    "Fund": 10348
+  },
+  {
+    "Bank Name": "First National Bank of Davis",
+    "City": "Davis",
+    "State": "OK",
+    "Cert": 4077,
+    "Acquiring Institution": "The Pauls Valley National Bank",
+    "Closing Date": "11-Mar-2011",
+    "Fund": 10349
+  },
+  {
+    "Bank Name": "Valley Community Bank",
+    "City": "St. Charles",
+    "State": "IL",
+    "Cert": 34187,
+    "Acquiring Institution": "First State Bank",
+    "Closing Date": "25-Feb-2011",
+    "Fund": 10347
+  },
+  {
+    "Bank Name": "San Luis Trust Bank, FSB",
+    "City": "San Luis Obispo",
+    "State": "CA",
+    "Cert": 34783,
+    "Acquiring Institution": "First California Bank",
+    "Closing Date": "18-Feb-2011",
+    "Fund": 10346
+  },
+  {
+    "Bank Name": "Charter Oak Bank",
+    "City": "Napa",
+    "State": "CA",
+    "Cert": 57855,
+    "Acquiring Institution": "Bank of Marin",
+    "Closing Date": "18-Feb-2011",
+    "Fund": 10343
+  },
+  {
+    "Bank Name": "Citizens Bank of Effingham",
+    "City": "Springfield",
+    "State": "GA",
+    "Cert": 34601,
+    "Acquiring Institution": "Heritage Bank of the South",
+    "Closing Date": "18-Feb-2011",
+    "Fund": 10344
+  },
+  {
+    "Bank Name": "Habersham Bank",
+    "City": "Clarkesville",
+    "State": "GA",
+    "Cert": 151,
+    "Acquiring Institution": "SCBT National Association",
+    "Closing Date": "18-Feb-2011",
+    "Fund": 10345
+  },
+  {
+    "Bank Name": "Canyon National Bank",
+    "City": "Palm Springs",
+    "State": "CA",
+    "Cert": 34692,
+    "Acquiring Institution": "Pacific Premier Bank",
+    "Closing Date": "11-Feb-2011",
+    "Fund": 10340
+  },
+  {
+    "Bank Name": "Badger State Bank",
+    "City": "Cassville",
+    "State": "WI",
+    "Cert": 13272,
+    "Acquiring Institution": "Royal Bank",
+    "Closing Date": "11-Feb-2011",
+    "Fund": 10339
+  },
+  {
+    "Bank Name": "Peoples State Bank",
+    "City": "Hamtramck",
+    "State": "MI",
+    "Cert": 14939,
+    "Acquiring Institution": "First Michigan Bank",
+    "Closing Date": "11-Feb-2011",
+    "Fund": 10341
+  },
+  {
+    "Bank Name": "Sunshine State Community Bank",
+    "City": "Port Orange",
+    "State": "FL",
+    "Cert": 35478,
+    "Acquiring Institution": "Premier American Bank, N.A.",
+    "Closing Date": "11-Feb-2011",
+    "Fund": 10342
+  },
+  {
+    "Bank Name": "Community First Bank Chicago",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 57948,
+    "Acquiring Institution": "Northbrook Bank & Trust Company",
+    "Closing Date": "4-Feb-2011",
+    "Fund": 10337
+  },
+  {
+    "Bank Name": "North Georgia Bank",
+    "City": "Watkinsville",
+    "State": "GA",
+    "Cert": 35242,
+    "Acquiring Institution": "BankSouth",
+    "Closing Date": "4-Feb-2011",
+    "Fund": 10338
+  },
+  {
+    "Bank Name": "American Trust Bank",
+    "City": "Roswell",
+    "State": "GA",
+    "Cert": 57432,
+    "Acquiring Institution": "Renasant Bank",
+    "Closing Date": "4-Feb-2011",
+    "Fund": 10336
+  },
+  {
+    "Bank Name": "First Community Bank",
+    "City": "Taos",
+    "State": "NM",
+    "Cert": 12261,
+    "Acquiring Institution": "U.S. Bank, N.A.",
+    "Closing Date": "28-Jan-2011",
+    "Fund": 10333
+  },
+  {
+    "Bank Name": "FirsTier Bank",
+    "City": "Louisville",
+    "State": "CO",
+    "Cert": 57646,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "28-Jan-2011",
+    "Fund": 10334
+  },
+  {
+    "Bank Name": "Evergreen State Bank",
+    "City": "Stoughton",
+    "State": "WI",
+    "Cert": 5328,
+    "Acquiring Institution": "McFarland State Bank",
+    "Closing Date": "28-Jan-2011",
+    "Fund": 10332
+  },
+  {
+    "Bank Name": "The First State Bank",
+    "City": "Camargo",
+    "State": "OK",
+    "Cert": 2303,
+    "Acquiring Institution": "Bank 7",
+    "Closing Date": "28-Jan-2011",
+    "Fund": 10335
+  },
+  {
+    "Bank Name": "United Western Bank",
+    "City": "Denver",
+    "State": "CO",
+    "Cert": 31293,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "21-Jan-2011",
+    "Fund": 10331
+  },
+  {
+    "Bank Name": "The Bank of Asheville",
+    "City": "Asheville",
+    "State": "NC",
+    "Cert": 34516,
+    "Acquiring Institution": "First Bank",
+    "Closing Date": "21-Jan-2011",
+    "Fund": 10330
+  },
+  {
+    "Bank Name": "CommunitySouth Bank & Trust",
+    "City": "Easley",
+    "State": "SC",
+    "Cert": 57868,
+    "Acquiring Institution": "CertusBank, National Association",
+    "Closing Date": "21-Jan-2011",
+    "Fund": 10328
+  },
+  {
+    "Bank Name": "Enterprise Banking Company",
+    "City": "McDonough",
+    "State": "GA",
+    "Cert": 19758,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "21-Jan-2011",
+    "Fund": 10329
+  },
+  {
+    "Bank Name": "Oglethorpe Bank",
+    "City": "Brunswick",
+    "State": "GA",
+    "Cert": 57440,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "14-Jan-2011",
+    "Fund": 10327
+  },
+  {
+    "Bank Name": "Legacy Bank",
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Cert": 57820,
+    "Acquiring Institution": "Enterprise Bank & Trust",
+    "Closing Date": "7-Jan-2011",
+    "Fund": 10326
+  },
+  {
+    "Bank Name": "First Commercial Bank of Florida",
+    "City": "Orlando",
+    "State": "FL",
+    "Cert": 34965,
+    "Acquiring Institution": "First Southern Bank",
+    "Closing Date": "7-Jan-2011",
+    "Fund": 10325
+  },
+  {
+    "Bank Name": "Community National Bank",
+    "City": "Lino Lakes",
+    "State": "MN",
+    "Cert": 23306,
+    "Acquiring Institution": "Farmers & Merchants Savings Bank",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10321
+  },
+  {
+    "Bank Name": "First Southern Bank",
+    "City": "Batesville",
+    "State": "AR",
+    "Cert": 58052,
+    "Acquiring Institution": "Southern Bank",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10322
+  },
+  {
+    "Bank Name": "United Americas Bank, N.A.",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 35065,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10323
+  },
+  {
+    "Bank Name": "Appalachian Community Bank, FSB",
+    "City": "McCaysville",
+    "State": "GA",
+    "Cert": 58495,
+    "Acquiring Institution": "Peoples Bank of East Tennessee",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10319
+  },
+  {
+    "Bank Name": "Chestatee State Bank",
+    "City": "Dawsonville",
+    "State": "GA",
+    "Cert": 34578,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10320
+  },
+  {
+    "Bank Name": "The Bank of Miami,N.A.",
+    "City": "Coral Gables",
+    "State": "FL",
+    "Cert": 19040,
+    "Acquiring Institution": "1st United Bank",
+    "Closing Date": "17-Dec-2010",
+    "Fund": 10324
+  },
+  {
+    "Bank Name": "Earthstar Bank",
+    "City": "Southampton",
+    "State": "PA",
+    "Cert": 35561,
+    "Acquiring Institution": "Polonia Bank",
+    "Closing Date": "10-Dec-2010",
+    "Fund": 10317
+  },
+  {
+    "Bank Name": "Paramount Bank",
+    "City": "Farmington Hills",
+    "State": "MI",
+    "Cert": 34673,
+    "Acquiring Institution": "Level One Bank",
+    "Closing Date": "10-Dec-2010",
+    "Fund": 10318
+  },
+  {
+    "Bank Name": "First Banking Center",
+    "City": "Burlington",
+    "State": "WI",
+    "Cert": 5287,
+    "Acquiring Institution": "First Michigan Bank",
+    "Closing Date": "19-Nov-2010",
+    "Fund": 10315
+  },
+  {
+    "Bank Name": "Allegiance Bank of North America",
+    "City": "Bala Cynwyd",
+    "State": "PA",
+    "Cert": 35078,
+    "Acquiring Institution": "VIST Bank",
+    "Closing Date": "19-Nov-2010",
+    "Fund": 10314
+  },
+  {
+    "Bank Name": "Gulf State Community Bank",
+    "City": "Carrabelle",
+    "State": "FL",
+    "Cert": 20340,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "19-Nov-2010",
+    "Fund": 10316
+  },
+  {
+    "Bank Name": "Copper Star Bank",
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Cert": 35463,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "12-Nov-2010",
+    "Fund": 10311
+  },
+  {
+    "Bank Name": "Darby Bank & Trust Co.",
+    "City": "Vidalia",
+    "State": "GA",
+    "Cert": 14580,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "12-Nov-2010",
+    "Fund": 10312
+  },
+  {
+    "Bank Name": "Tifton Banking Company",
+    "City": "Tifton",
+    "State": "GA",
+    "Cert": 57831,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "12-Nov-2010",
+    "Fund": 10313
+  },
+  {
+    "Bank Name": "First Vietnamese American Bank",
+    "City": "Westminster",
+    "State": "CA",
+    "Cert": 57885,
+    "Acquiring Institution": "Grandpoint Bank",
+    "Closing Date": "5-Nov-2010",
+    "Fund": 10307
+  },
+  {
+    "Bank Name": "Pierce Commercial Bank",
+    "City": "Tacoma",
+    "State": "WA",
+    "Cert": 34411,
+    "Acquiring Institution": "Heritage Bank",
+    "Closing Date": "5-Nov-2010",
+    "Fund": 10309
+  },
+  {
+    "Bank Name": "Western Commercial Bank",
+    "City": "Woodland Hills",
+    "State": "CA",
+    "Cert": 58087,
+    "Acquiring Institution": "First California Bank",
+    "Closing Date": "5-Nov-2010",
+    "Fund": 10310
+  },
+  {
+    "Bank Name": "K Bank",
+    "City": "Randallstown",
+    "State": "MD",
+    "Cert": 31263,
+    "Acquiring Institution": "Manufacturers and Traders Trust Company (M&T Bank)",
+    "Closing Date": "5-Nov-2010",
+    "Fund": 10308
+  },
+  {
+    "Bank Name": "First Arizona Savings, A FSB",
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Cert": 32582,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10306
+  },
+  {
+    "Bank Name": "Hillcrest Bank",
+    "City": "Overland Park",
+    "State": "KS",
+    "Cert": 22173,
+    "Acquiring Institution": "Hillcrest Bank, N.A.",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10302
+  },
+  {
+    "Bank Name": "First Suburban National Bank",
+    "City": "Maywood",
+    "State": "IL",
+    "Cert": 16089,
+    "Acquiring Institution": "Seaway Bank and Trust Company",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10301
+  },
+  {
+    "Bank Name": "The First National Bank of Barnesville",
+    "City": "Barnesville",
+    "State": "GA",
+    "Cert": 2119,
+    "Acquiring Institution": "United Bank",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10304
+  },
+  {
+    "Bank Name": "The Gordon Bank",
+    "City": "Gordon",
+    "State": "GA",
+    "Cert": 33904,
+    "Acquiring Institution": "Morris Bank",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10305
+  },
+  {
+    "Bank Name": "Progress Bank of Florida",
+    "City": "Tampa",
+    "State": "FL",
+    "Cert": 32251,
+    "Acquiring Institution": "Bay Cities Bank",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10303
+  },
+  {
+    "Bank Name": "First Bank of Jacksonville",
+    "City": "Jacksonville",
+    "State": "FL",
+    "Cert": 27573,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "22-Oct-2010",
+    "Fund": 10300
+  },
+  {
+    "Bank Name": "Premier Bank",
+    "City": "Jefferson City",
+    "State": "MO",
+    "Cert": 34016,
+    "Acquiring Institution": "Providence Bank",
+    "Closing Date": "15-Oct-2010",
+    "Fund": 10297
+  },
+  {
+    "Bank Name": "WestBridge Bank and Trust Company",
+    "City": "Chesterfield",
+    "State": "MO",
+    "Cert": 58205,
+    "Acquiring Institution": "Midland States Bank",
+    "Closing Date": "15-Oct-2010",
+    "Fund": 10299
+  },
+  {
+    "Bank Name": "Security Savings Bank, F.S.B.",
+    "City": "Olathe",
+    "State": "KS",
+    "Cert": 30898,
+    "Acquiring Institution": "Simmons First National Bank",
+    "Closing Date": "15-Oct-2010",
+    "Fund": 10298
+  },
+  {
+    "Bank Name": "Shoreline Bank",
+    "City": "Shoreline",
+    "State": "WA",
+    "Cert": 35250,
+    "Acquiring Institution": "GBC International Bank",
+    "Closing Date": "1-Oct-2010",
+    "Fund": 10295
+  },
+  {
+    "Bank Name": "Wakulla Bank",
+    "City": "Crawfordville",
+    "State": "FL",
+    "Cert": 21777,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "1-Oct-2010",
+    "Fund": 10296
+  },
+  {
+    "Bank Name": "North County Bank",
+    "City": "Arlington",
+    "State": "WA",
+    "Cert": 35053,
+    "Acquiring Institution": "Whidbey Island Bank",
+    "Closing Date": "24-Sep-2010",
+    "Fund": 10294
+  },
+  {
+    "Bank Name": "Haven Trust Bank Florida",
+    "City": "Ponte Vedra Beach",
+    "State": "FL",
+    "Cert": 58308,
+    "Acquiring Institution": "First Southern Bank",
+    "Closing Date": "24-Sep-2010",
+    "Fund": 10293
+  },
+  {
+    "Bank Name": "Maritime Savings Bank",
+    "City": "West Allis",
+    "State": "WI",
+    "Cert": 28612,
+    "Acquiring Institution": "North Shore Bank, FSB",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10291
+  },
+  {
+    "Bank Name": "Bramble Savings Bank",
+    "City": "Milford",
+    "State": "OH",
+    "Cert": 27808,
+    "Acquiring Institution": "Foundation Bank",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10288
+  },
+  {
+    "Bank Name": "The Peoples Bank",
+    "City": "Winder",
+    "State": "GA",
+    "Cert": 182,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10292
+  },
+  {
+    "Bank Name": "First Commerce Community Bank",
+    "City": "Douglasville",
+    "State": "GA",
+    "Cert": 57448,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10289
+  },
+  {
+    "Bank Name": "Bank of Ellijay",
+    "City": "Ellijay",
+    "State": "GA",
+    "Cert": 58197,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10287
+  },
+  {
+    "Bank Name": "ISN Bank",
+    "City": "Cherry Hill",
+    "State": "NJ",
+    "Cert": 57107,
+    "Acquiring Institution": "Customers Bank",
+    "Closing Date": "17-Sep-2010",
+    "Fund": 10290
+  },
+  {
+    "Bank Name": "Horizon Bank",
+    "City": "Bradenton",
+    "State": "FL",
+    "Cert": 35061,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "10-Sep-2010",
+    "Fund": 10286
+  },
+  {
+    "Bank Name": "Sonoma Valley Bank",
+    "City": "Sonoma",
+    "State": "CA",
+    "Cert": 27259,
+    "Acquiring Institution": "Westamerica Bank",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10285
+  },
+  {
+    "Bank Name": "Los Padres Bank",
+    "City": "Solvang",
+    "State": "CA",
+    "Cert": 32165,
+    "Acquiring Institution": "Pacific Western Bank",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10282
+  },
+  {
+    "Bank Name": "Butte Community Bank",
+    "City": "Chico",
+    "State": "CA",
+    "Cert": 33219,
+    "Acquiring Institution": "Rabobank, N.A.",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10278
+  },
+  {
+    "Bank Name": "Pacific State Bank",
+    "City": "Stockton",
+    "State": "CA",
+    "Cert": 27090,
+    "Acquiring Institution": "Rabobank, N.A.",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10283
+  },
+  {
+    "Bank Name": "ShoreBank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 15640,
+    "Acquiring Institution": "Urban Partnership Bank",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10284
+  },
+  {
+    "Bank Name": "Imperial Savings and Loan Association",
+    "City": "Martinsville",
+    "State": "VA",
+    "Cert": 31623,
+    "Acquiring Institution": "River Community Bank, N.A.",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10280
+  },
+  {
+    "Bank Name": "Independent National Bank",
+    "City": "Ocala",
+    "State": "FL",
+    "Cert": 27344,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10281
+  },
+  {
+    "Bank Name": "Community National Bank at Bartow",
+    "City": "Bartow",
+    "State": "FL",
+    "Cert": 25266,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "20-Aug-2010",
+    "Fund": 10279
+  },
+  {
+    "Bank Name": "Palos Bank and Trust Company",
+    "City": "Palos Heights",
+    "State": "IL",
+    "Cert": 17599,
+    "Acquiring Institution": "First Midwest Bank",
+    "Closing Date": "13-Aug-2010",
+    "Fund": 10277
+  },
+  {
+    "Bank Name": "Ravenswood Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 34231,
+    "Acquiring Institution": "Northbrook Bank & Trust Company",
+    "Closing Date": "6-Aug-2010",
+    "Fund": 10276
+  },
+  {
+    "Bank Name": "LibertyBank",
+    "City": "Eugene",
+    "State": "OR",
+    "Cert": 31964,
+    "Acquiring Institution": "Home Federal Bank",
+    "Closing Date": "30-Jul-2010",
+    "Fund": 10273
+  },
+  {
+    "Bank Name": "The Cowlitz Bank",
+    "City": "Longview",
+    "State": "WA",
+    "Cert": 22643,
+    "Acquiring Institution": "Heritage Bank",
+    "Closing Date": "30-Jul-2010",
+    "Fund": 10275
+  },
+  {
+    "Bank Name": "Coastal Community Bank",
+    "City": "Panama City Beach",
+    "State": "FL",
+    "Cert": 9619,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "30-Jul-2010",
+    "Fund": 10272
+  },
+  {
+    "Bank Name": "Bayside Savings Bank",
+    "City": "Port Saint Joe",
+    "State": "FL",
+    "Cert": 57669,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "30-Jul-2010",
+    "Fund": 10271
+  },
+  {
+    "Bank Name": "Northwest Bank & Trust",
+    "City": "Acworth",
+    "State": "GA",
+    "Cert": 57658,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "30-Jul-2010",
+    "Fund": 10274
+  },
+  {
+    "Bank Name": "Home Valley Bank",
+    "City": "Cave Junction",
+    "State": "OR",
+    "Cert": 23181,
+    "Acquiring Institution": "South Valley Bank & Trust",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10266
+  },
+  {
+    "Bank Name": "SouthwestUSA Bank",
+    "City": "Las Vegas",
+    "State": "NV",
+    "Cert": 35434,
+    "Acquiring Institution": "Plaza Bank",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10267
+  },
+  {
+    "Bank Name": "Community Security Bank",
+    "City": "New Prague",
+    "State": "MN",
+    "Cert": 34486,
+    "Acquiring Institution": "Roundbank",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10264
+  },
+  {
+    "Bank Name": "Thunder Bank",
+    "City": "Sylvan Grove",
+    "State": "KS",
+    "Cert": 10506,
+    "Acquiring Institution": "The Bennington State Bank",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10269
+  },
+  {
+    "Bank Name": "Williamsburg First National Bank",
+    "City": "Kingstree",
+    "State": "SC",
+    "Cert": 17837,
+    "Acquiring Institution": "First Citizens Bank and Trust Company, Inc.",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10270
+  },
+  {
+    "Bank Name": "Crescent Bank and Trust Company",
+    "City": "Jasper",
+    "State": "GA",
+    "Cert": 27559,
+    "Acquiring Institution": "Renasant Bank",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10265
+  },
+  {
+    "Bank Name": "Sterling Bank",
+    "City": "Lantana",
+    "State": "FL",
+    "Cert": 32536,
+    "Acquiring Institution": "IBERIABANK",
+    "Closing Date": "23-Jul-2010",
+    "Fund": 10268
+  },
+  {
+    "Bank Name": "Mainstreet Savings Bank, FSB",
+    "City": "Hastings",
+    "State": "MI",
+    "Cert": 28136,
+    "Acquiring Institution": "Commercial Bank",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10258
+  },
+  {
+    "Bank Name": "Olde Cypress Community Bank",
+    "City": "Clewiston",
+    "State": "FL",
+    "Cert": 28864,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10260
+  },
+  {
+    "Bank Name": "Turnberry Bank",
+    "City": "Aventura",
+    "State": "FL",
+    "Cert": 32280,
+    "Acquiring Institution": "NAFH National Bank",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10261
+  },
+  {
+    "Bank Name": "Metro Bank of Dade County",
+    "City": "Miami",
+    "State": "FL",
+    "Cert": 25172,
+    "Acquiring Institution": "NAFH National Bank",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10259
+  },
+  {
+    "Bank Name": "First National Bank of the South",
+    "City": "Spartanburg",
+    "State": "SC",
+    "Cert": 35383,
+    "Acquiring Institution": "NAFH National Bank",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10263
+  },
+  {
+    "Bank Name": "Woodlands Bank",
+    "City": "Bluffton",
+    "State": "SC",
+    "Cert": 32571,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "16-Jul-2010",
+    "Fund": 10262
+  },
+  {
+    "Bank Name": "Home National Bank",
+    "City": "Blackwell",
+    "State": "OK",
+    "Cert": 11636,
+    "Acquiring Institution": "RCB Bank",
+    "Closing Date": "9-Jul-2010",
+    "Fund": 10256
+  },
+  {
+    "Bank Name": "USA Bank",
+    "City": "Port Chester",
+    "State": "NY",
+    "Cert": 58072,
+    "Acquiring Institution": "New Century Bank",
+    "Closing Date": "9-Jul-2010",
+    "Fund": 10254
+  },
+  {
+    "Bank Name": "Ideal Federal Savings Bank",
+    "City": "Baltimore",
+    "State": "MD",
+    "Cert": 32456,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "9-Jul-2010",
+    "Fund": 10257
+  },
+  {
+    "Bank Name": "Bay National Bank",
+    "City": "Baltimore",
+    "State": "MD",
+    "Cert": 35462,
+    "Acquiring Institution": "Bay Bank, FSB",
+    "Closing Date": "9-Jul-2010",
+    "Fund": 10255
+  },
+  {
+    "Bank Name": "High Desert State Bank",
+    "City": "Albuquerque",
+    "State": "NM",
+    "Cert": 35279,
+    "Acquiring Institution": "First American Bank",
+    "Closing Date": "25-Jun-2010",
+    "Fund": 10252
+  },
+  {
+    "Bank Name": "First National Bank",
+    "City": "Savannah",
+    "State": "GA",
+    "Cert": 34152,
+    "Acquiring Institution": "The Savannah Bank, N.A.",
+    "Closing Date": "25-Jun-2010",
+    "Fund": 10251
+  },
+  {
+    "Bank Name": "Peninsula Bank",
+    "City": "Englewood",
+    "State": "FL",
+    "Cert": 26563,
+    "Acquiring Institution": "Premier American Bank, N.A.",
+    "Closing Date": "25-Jun-2010",
+    "Fund": 10253
+  },
+  {
+    "Bank Name": "Nevada Security Bank",
+    "City": "Reno",
+    "State": "NV",
+    "Cert": 57110,
+    "Acquiring Institution": "Umpqua Bank",
+    "Closing Date": "18-Jun-2010",
+    "Fund": 10250
+  },
+  {
+    "Bank Name": "Washington First International Bank",
+    "City": "Seattle",
+    "State": "WA",
+    "Cert": 32955,
+    "Acquiring Institution": "East West Bank",
+    "Closing Date": "11-Jun-2010",
+    "Fund": 10249
+  },
+  {
+    "Bank Name": "TierOne Bank",
+    "City": "Lincoln",
+    "State": "NE",
+    "Cert": 29341,
+    "Acquiring Institution": "Great Western Bank",
+    "Closing Date": "4-Jun-2010",
+    "Fund": 10248
+  },
+  {
+    "Bank Name": "Arcola Homestead Savings Bank",
+    "City": "Arcola",
+    "State": "IL",
+    "Cert": 31813,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "4-Jun-2010",
+    "Fund": 10246
+  },
+  {
+    "Bank Name": "First National Bank",
+    "City": "Rosedale",
+    "State": "MS",
+    "Cert": 15814,
+    "Acquiring Institution": "The Jefferson Bank",
+    "Closing Date": "4-Jun-2010",
+    "Fund": 10247
+  },
+  {
+    "Bank Name": "Sun West Bank",
+    "City": "Las Vegas",
+    "State": "NV",
+    "Cert": 34785,
+    "Acquiring Institution": "City National Bank",
+    "Closing Date": "28-May-2010",
+    "Fund": 10245
+  },
+  {
+    "Bank Name": "Granite Community Bank, NA",
+    "City": "Granite Bay",
+    "State": "CA",
+    "Cert": 57315,
+    "Acquiring Institution": "Tri Counties Bank",
+    "Closing Date": "28-May-2010",
+    "Fund": 10244
+  },
+  {
+    "Bank Name": "Bank of Florida - Tampa",
+    "City": "Tampa",
+    "State": "FL",
+    "Cert": 57814,
+    "Acquiring Institution": "EverBank",
+    "Closing Date": "28-May-2010",
+    "Fund": 10243
+  },
+  {
+    "Bank Name": "Bank of Florida - Southwest",
+    "City": "Naples",
+    "State": "FL",
+    "Cert": 35106,
+    "Acquiring Institution": "EverBank",
+    "Closing Date": "28-May-2010",
+    "Fund": 10242
+  },
+  {
+    "Bank Name": "Bank of Florida - Southeast",
+    "City": "Fort Lauderdale",
+    "State": "FL",
+    "Cert": 57360,
+    "Acquiring Institution": "EverBank",
+    "Closing Date": "28-May-2010",
+    "Fund": 10241
+  },
+  {
+    "Bank Name": "Pinehurst Bank",
+    "City": "Saint Paul",
+    "State": "MN",
+    "Cert": 57735,
+    "Acquiring Institution": "Coulee Bank",
+    "Closing Date": "21-May-2010",
+    "Fund": 10240
+  },
+  {
+    "Bank Name": "Midwest Bank and Trust Company",
+    "City": "Elmwood Park",
+    "State": "IL",
+    "Cert": 18117,
+    "Acquiring Institution": "FirstMerit Bank, N.A.",
+    "Closing Date": "14-May-2010",
+    "Fund": 10236
+  },
+  {
+    "Bank Name": "Southwest Community Bank",
+    "City": "Springfield",
+    "State": "MO",
+    "Cert": 34255,
+    "Acquiring Institution": "Simmons First National Bank",
+    "Closing Date": "14-May-2010",
+    "Fund": 10239
+  },
+  {
+    "Bank Name": "New Liberty Bank",
+    "City": "Plymouth",
+    "State": "MI",
+    "Cert": 35586,
+    "Acquiring Institution": "Bank of Ann Arbor",
+    "Closing Date": "14-May-2010",
+    "Fund": 10237
+  },
+  {
+    "Bank Name": "Satilla Community Bank",
+    "City": "Saint Marys",
+    "State": "GA",
+    "Cert": 35114,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "14-May-2010",
+    "Fund": 10238
+  },
+  {
+    "Bank Name": "1st Pacific Bank of California",
+    "City": "San Diego",
+    "State": "CA",
+    "Cert": 35517,
+    "Acquiring Institution": "City National Bank",
+    "Closing Date": "7-May-2010",
+    "Fund": 10232
+  },
+  {
+    "Bank Name": "Towne Bank of Arizona",
+    "City": "Mesa",
+    "State": "AZ",
+    "Cert": 57697,
+    "Acquiring Institution": "Commerce Bank of Arizona",
+    "Closing Date": "7-May-2010",
+    "Fund": 10235
+  },
+  {
+    "Bank Name": "Access Bank",
+    "City": "Champlin",
+    "State": "MN",
+    "Cert": 16476,
+    "Acquiring Institution": "PrinsBank",
+    "Closing Date": "7-May-2010",
+    "Fund": 10233
+  },
+  {
+    "Bank Name": "The Bank of Bonifay",
+    "City": "Bonifay",
+    "State": "FL",
+    "Cert": 14246,
+    "Acquiring Institution": "First Federal Bank of Florida",
+    "Closing Date": "7-May-2010",
+    "Fund": 10234
+  },
+  {
+    "Bank Name": "Frontier Bank",
+    "City": "Everett",
+    "State": "WA",
+    "Cert": 22710,
+    "Acquiring Institution": "Union Bank, N.A.",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10228
+  },
+  {
+    "Bank Name": "BC National Banks",
+    "City": "Butler",
+    "State": "MO",
+    "Cert": 17792,
+    "Acquiring Institution": "Community First Bank",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10225
+  },
+  {
+    "Bank Name": "Champion Bank",
+    "City": "Creve Coeur",
+    "State": "MO",
+    "Cert": 58362,
+    "Acquiring Institution": "BankLiberty",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10227
+  },
+  {
+    "Bank Name": "CF Bancorp",
+    "City": "Port Huron",
+    "State": "MI",
+    "Cert": 30005,
+    "Acquiring Institution": "First Michigan Bank",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10226
+  },
+  {
+    "Bank Name": "Westernbank Puerto Rico",
+    "City": "Mayaguez",
+    "State": "PR",
+    "Cert": 31027,
+    "Acquiring Institution": "Banco Popular de Puerto Rico",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10231
+  },
+  {
+    "Bank Name": "R-G Premier Bank of Puerto Rico",
+    "City": "Hato Rey",
+    "State": "PR",
+    "Cert": 32185,
+    "Acquiring Institution": "Scotiabank de Puerto Rico",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10230
+  },
+  {
+    "Bank Name": "Eurobank",
+    "City": "San Juan",
+    "State": "PR",
+    "Cert": 27150,
+    "Acquiring Institution": "Oriental Bank and Trust",
+    "Closing Date": "30-Apr-2010",
+    "Fund": 10229
+  },
+  {
+    "Bank Name": "Wheatland Bank",
+    "City": "Naperville",
+    "State": "IL",
+    "Cert": 58429,
+    "Acquiring Institution": "Wheaton Bank & Trust",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10224
+  },
+  {
+    "Bank Name": "Peotone Bank and Trust Company",
+    "City": "Peotone",
+    "State": "IL",
+    "Cert": 10888,
+    "Acquiring Institution": "First Midwest Bank",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10223
+  },
+  {
+    "Bank Name": "Lincoln Park Savings Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 30600,
+    "Acquiring Institution": "Northbrook Bank & Trust Company",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10221
+  },
+  {
+    "Bank Name": "New Century Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 34821,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10222
+  },
+  {
+    "Bank Name": "Citizens Bank and Trust Company of Chicago",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 34658,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10220
+  },
+  {
+    "Bank Name": "Broadway Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 22853,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10219
+  },
+  {
+    "Bank Name": "Amcore Bank, National Association",
+    "City": "Rockford",
+    "State": "IL",
+    "Cert": 3735,
+    "Acquiring Institution": "Harris N.A.",
+    "Closing Date": "23-Apr-2010",
+    "Fund": 10218
+  },
+  {
+    "Bank Name": "City Bank",
+    "City": "Lynnwood",
+    "State": "WA",
+    "Cert": 21521,
+    "Acquiring Institution": "Whidbey Island Bank",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10212
+  },
+  {
+    "Bank Name": "Tamalpais Bank",
+    "City": "San Rafael",
+    "State": "CA",
+    "Cert": 33493,
+    "Acquiring Institution": "Union Bank, N.A.",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10217
+  },
+  {
+    "Bank Name": "Innovative Bank",
+    "City": "Oakland",
+    "State": "CA",
+    "Cert": 23876,
+    "Acquiring Institution": "Center Bank",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10214
+  },
+  {
+    "Bank Name": "Butler Bank",
+    "City": "Lowell",
+    "State": "MA",
+    "Cert": 26619,
+    "Acquiring Institution": "People's United Bank",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10211
+  },
+  {
+    "Bank Name": "Riverside National Bank of Florida",
+    "City": "Fort Pierce",
+    "State": "FL",
+    "Cert": 24067,
+    "Acquiring Institution": "TD Bank, N.A.",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10216
+  },
+  {
+    "Bank Name": "AmericanFirst Bank",
+    "City": "Clermont",
+    "State": "FL",
+    "Cert": 57724,
+    "Acquiring Institution": "TD Bank, N.A.",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10210
+  },
+  {
+    "Bank Name": "First Federal Bank of North Florida",
+    "City": "Palatka",
+    "State": "FL",
+    "Cert": 28886,
+    "Acquiring Institution": "TD Bank, N.A.",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10213
+  },
+  {
+    "Bank Name": "Lakeside Community Bank",
+    "City": "Sterling Heights",
+    "State": "MI",
+    "Cert": 34878,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "16-Apr-2010",
+    "Fund": 10215
+  },
+  {
+    "Bank Name": "Beach First National Bank",
+    "City": "Myrtle Beach",
+    "State": "SC",
+    "Cert": 34242,
+    "Acquiring Institution": "Bank of North Carolina",
+    "Closing Date": "9-Apr-2010",
+    "Fund": 10209
+  },
+  {
+    "Bank Name": "Desert Hills Bank",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 57060,
+    "Acquiring Institution": "New York Community Bank",
+    "Closing Date": "26-Mar-2010",
+    "Fund": 10205
+  },
+  {
+    "Bank Name": "Unity National Bank",
+    "City": "Cartersville",
+    "State": "GA",
+    "Cert": 34678,
+    "Acquiring Institution": "Bank of the Ozarks",
+    "Closing Date": "26-Mar-2010",
+    "Fund": 10208
+  },
+  {
+    "Bank Name": "Key West Bank",
+    "City": "Key West",
+    "State": "FL",
+    "Cert": 34684,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "26-Mar-2010",
+    "Fund": 10206
+  },
+  {
+    "Bank Name": "McIntosh Commercial Bank",
+    "City": "Carrollton",
+    "State": "GA",
+    "Cert": 57399,
+    "Acquiring Institution": "CharterBank",
+    "Closing Date": "26-Mar-2010",
+    "Fund": 10207
+  },
+  {
+    "Bank Name": "State Bank of Aurora",
+    "City": "Aurora",
+    "State": "MN",
+    "Cert": 8221,
+    "Acquiring Institution": "Northern State Bank",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10203
+  },
+  {
+    "Bank Name": "First Lowndes Bank",
+    "City": "Fort Deposit",
+    "State": "AL",
+    "Cert": 24957,
+    "Acquiring Institution": "First Citizens Bank",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10204
+  },
+  {
+    "Bank Name": "Bank of Hiawassee",
+    "City": "Hiawassee",
+    "State": "GA",
+    "Cert": 10054,
+    "Acquiring Institution": "Citizens South Bank",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10202
+  },
+  {
+    "Bank Name": "Appalachian Community Bank",
+    "City": "Ellijay",
+    "State": "GA",
+    "Cert": 33989,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10199
+  },
+  {
+    "Bank Name": "Advanta Bank Corp.",
+    "City": "Draper",
+    "State": "UT",
+    "Cert": 33535,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10200
+  },
+  {
+    "Bank Name": "Century Security Bank",
+    "City": "Duluth",
+    "State": "GA",
+    "Cert": 58104,
+    "Acquiring Institution": "Bank of Upson",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10198
+  },
+  {
+    "Bank Name": "American National Bank",
+    "City": "Parma",
+    "State": "OH",
+    "Cert": 18806,
+    "Acquiring Institution": "The National Bank and Trust Company",
+    "Closing Date": "19-Mar-2010",
+    "Fund": 10201
+  },
+  {
+    "Bank Name": "Statewide Bank",
+    "City": "Covington",
+    "State": "LA",
+    "Cert": 29561,
+    "Acquiring Institution": "Home Bank",
+    "Closing Date": "12-Mar-2010",
+    "Fund": 10196
+  },
+  {
+    "Bank Name": "Old Southern Bank",
+    "City": "Orlando",
+    "State": "FL",
+    "Cert": 58182,
+    "Acquiring Institution": "Centennial Bank",
+    "Closing Date": "12-Mar-2010",
+    "Fund": 10197
+  },
+  {
+    "Bank Name": "The Park Avenue Bank",
+    "City": "New York",
+    "State": "NY",
+    "Cert": 27096,
+    "Acquiring Institution": "Valley National Bank",
+    "Closing Date": "12-Mar-2010",
+    "Fund": 10195
+  },
+  {
+    "Bank Name": "LibertyPointe Bank",
+    "City": "New York",
+    "State": "NY",
+    "Cert": 58071,
+    "Acquiring Institution": "Valley National Bank",
+    "Closing Date": "11-Mar-2010",
+    "Fund": 10194
+  },
+  {
+    "Bank Name": "Centennial Bank",
+    "City": "Ogden",
+    "State": "UT",
+    "Cert": 34430,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "5-Mar-2010",
+    "Fund": 10193
+  },
+  {
+    "Bank Name": "Waterfield Bank",
+    "City": "Germantown",
+    "State": "MD",
+    "Cert": 34976,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "5-Mar-2010",
+    "Fund": 10190
+  },
+  {
+    "Bank Name": "Bank of Illinois",
+    "City": "Normal",
+    "State": "IL",
+    "Cert": 9268,
+    "Acquiring Institution": "Heartland Bank and Trust Company",
+    "Closing Date": "5-Mar-2010",
+    "Fund": 10191
+  },
+  {
+    "Bank Name": "Sun American Bank",
+    "City": "Boca Raton",
+    "State": "FL",
+    "Cert": 27126,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "5-Mar-2010",
+    "Fund": 10192
+  },
+  {
+    "Bank Name": "Rainier Pacific Bank",
+    "City": "Tacoma",
+    "State": "WA",
+    "Cert": 38129,
+    "Acquiring Institution": "Umpqua Bank",
+    "Closing Date": "26-Feb-2010",
+    "Fund": 10189
+  },
+  {
+    "Bank Name": "Carson River Community Bank",
+    "City": "Carson City",
+    "State": "NV",
+    "Cert": 58352,
+    "Acquiring Institution": "Heritage Bank of Nevada",
+    "Closing Date": "26-Feb-2010",
+    "Fund": 10188
+  },
+  {
+    "Bank Name": "La Jolla Bank, FSB",
+    "City": "La Jolla",
+    "State": "CA",
+    "Cert": 32423,
+    "Acquiring Institution": "OneWest Bank, FSB",
+    "Closing Date": "19-Feb-2010",
+    "Fund": 10185
+  },
+  {
+    "Bank Name": "George Washington Savings Bank",
+    "City": "Orland Park",
+    "State": "IL",
+    "Cert": 29952,
+    "Acquiring Institution": "FirstMerit Bank, N.A.",
+    "Closing Date": "19-Feb-2010",
+    "Fund": 10184
+  },
+  {
+    "Bank Name": "The La Coste National Bank",
+    "City": "La Coste",
+    "State": "TX",
+    "Cert": 3287,
+    "Acquiring Institution": "Community National Bank",
+    "Closing Date": "19-Feb-2010",
+    "Fund": 10186
+  },
+  {
+    "Bank Name": "Marco Community Bank",
+    "City": "Marco Island",
+    "State": "FL",
+    "Cert": 57586,
+    "Acquiring Institution": "Mutual of Omaha Bank",
+    "Closing Date": "19-Feb-2010",
+    "Fund": 10187
+  },
+  {
+    "Bank Name": "1st American State Bank of Minnesota",
+    "City": "Hancock",
+    "State": "MN",
+    "Cert": 15448,
+    "Acquiring Institution": "Community Development Bank, FSB",
+    "Closing Date": "5-Feb-2010",
+    "Fund": 10183
+  },
+  {
+    "Bank Name": "American Marine Bank",
+    "City": "Bainbridge Island",
+    "State": "WA",
+    "Cert": 16730,
+    "Acquiring Institution": "Columbia State Bank",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10178
+  },
+  {
+    "Bank Name": "First Regional Bank",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Cert": 23011,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10177
+  },
+  {
+    "Bank Name": "Community Bank and Trust",
+    "City": "Cornelia",
+    "State": "GA",
+    "Cert": 5702,
+    "Acquiring Institution": "SCBT National Association",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10180
+  },
+  {
+    "Bank Name": "Marshall Bank, N.A.",
+    "City": "Hallock",
+    "State": "MN",
+    "Cert": 16133,
+    "Acquiring Institution": "United Valley Bank",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10182
+  },
+  {
+    "Bank Name": "Florida Community Bank",
+    "City": "Immokalee",
+    "State": "FL",
+    "Cert": 5672,
+    "Acquiring Institution": "Premier American Bank, N.A.",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10181
+  },
+  {
+    "Bank Name": "First National Bank of Georgia",
+    "City": "Carrollton",
+    "State": "GA",
+    "Cert": 16480,
+    "Acquiring Institution": "Community & Southern Bank",
+    "Closing Date": "29-Jan-2010",
+    "Fund": 10179
+  },
+  {
+    "Bank Name": "Columbia River Bank",
+    "City": "The Dalles",
+    "State": "OR",
+    "Cert": 22469,
+    "Acquiring Institution": "Columbia State Bank",
+    "Closing Date": "22-Jan-2010",
+    "Fund": 10176
+  },
+  {
+    "Bank Name": "Evergreen Bank",
+    "City": "Seattle",
+    "State": "WA",
+    "Cert": 20501,
+    "Acquiring Institution": "Umpqua Bank",
+    "Closing Date": "22-Jan-2010",
+    "Fund": 10172
+  },
+  {
+    "Bank Name": "Charter Bank",
+    "City": "Santa Fe",
+    "State": "NM",
+    "Cert": 32498,
+    "Acquiring Institution": "Charter Bank",
+    "Closing Date": "22-Jan-2010",
+    "Fund": 10175
+  },
+  {
+    "Bank Name": "Bank of Leeton",
+    "City": "Leeton",
+    "State": "MO",
+    "Cert": 8265,
+    "Acquiring Institution": "Sunflower Bank, N.A.",
+    "Closing Date": "22-Jan-2010",
+    "Fund": 10174
+  },
+  {
+    "Bank Name": "Premier American Bank",
+    "City": "Miami",
+    "State": "FL",
+    "Cert": 57147,
+    "Acquiring Institution": "Premier American Bank, N.A.",
+    "Closing Date": "22-Jan-2010",
+    "Fund": 10173
+  },
+  {
+    "Bank Name": "Barnes Banking Company",
+    "City": "Kaysville",
+    "State": "UT",
+    "Cert": 1252,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "15-Jan-2010",
+    "Fund": 10171
+  },
+  {
+    "Bank Name": "St. Stephen State Bank",
+    "City": "St. Stephen",
+    "State": "MN",
+    "Cert": 17522,
+    "Acquiring Institution": "First State Bank of St. Joseph",
+    "Closing Date": "15-Jan-2010",
+    "Fund": 10169
+  },
+  {
+    "Bank Name": "Town Community Bank & Trust",
+    "City": "Antioch",
+    "State": "IL",
+    "Cert": 34705,
+    "Acquiring Institution": "First American Bank",
+    "Closing Date": "15-Jan-2010",
+    "Fund": 10170
+  },
+  {
+    "Bank Name": "Horizon Bank",
+    "City": "Bellingham",
+    "State": "WA",
+    "Cert": 22977,
+    "Acquiring Institution": "Washington Federal Savings and Loan Association",
+    "Closing Date": "8-Jan-2010",
+    "Fund": 10168
+  },
+  {
+    "Bank Name": "First Federal Bank of California, F.S.B.",
+    "City": "Santa Monica",
+    "State": "CA",
+    "Cert": 28536,
+    "Acquiring Institution": "OneWest Bank, FSB",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10167
+  },
+  {
+    "Bank Name": "Imperial Capital Bank",
+    "City": "La Jolla",
+    "State": "CA",
+    "Cert": 26348,
+    "Acquiring Institution": "City National Bank",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10161
+  },
+  {
+    "Bank Name": "Independent Bankers' Bank",
+    "City": "Springfield",
+    "State": "IL",
+    "Cert": 26820,
+    "Acquiring Institution": "The Independent BankersBank (TIB)",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10166
+  },
+  {
+    "Bank Name": "New South Federal Savings Bank",
+    "City": "Irondale",
+    "State": "AL",
+    "Cert": 32276,
+    "Acquiring Institution": "Beal Bank",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10163
+  },
+  {
+    "Bank Name": "Citizens State Bank",
+    "City": "New Baltimore",
+    "State": "MI",
+    "Cert": 1006,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10162
+  },
+  {
+    "Bank Name": "Peoples First Community Bank",
+    "City": "Panama City",
+    "State": "FL",
+    "Cert": 32167,
+    "Acquiring Institution": "Hancock Bank",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10165
+  },
+  {
+    "Bank Name": "RockBridge Commercial Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 58315,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "18-Dec-2009",
+    "Fund": 10164
+  },
+  {
+    "Bank Name": "SolutionsBank",
+    "City": "Overland Park",
+    "State": "KS",
+    "Cert": 4731,
+    "Acquiring Institution": "Arvest Bank",
+    "Closing Date": "11-Dec-2009",
+    "Fund": 10160
+  },
+  {
+    "Bank Name": "Valley Capital Bank, N.A.",
+    "City": "Mesa",
+    "State": "AZ",
+    "Cert": 58399,
+    "Acquiring Institution": "Enterprise Bank & Trust",
+    "Closing Date": "11-Dec-2009",
+    "Fund": 10159
+  },
+  {
+    "Bank Name": "Republic Federal Bank, N.A.",
+    "City": "Miami",
+    "State": "FL",
+    "Cert": 22846,
+    "Acquiring Institution": "1st United Bank",
+    "Closing Date": "11-Dec-2009",
+    "Fund": 10158
+  },
+  {
+    "Bank Name": "Greater Atlantic Bank",
+    "City": "Reston",
+    "State": "VA",
+    "Cert": 32583,
+    "Acquiring Institution": "Sonabank",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10156
+  },
+  {
+    "Bank Name": "Benchmark Bank",
+    "City": "Aurora",
+    "State": "IL",
+    "Cert": 10440,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10154
+  },
+  {
+    "Bank Name": "AmTrust Bank",
+    "City": "Cleveland",
+    "State": "OH",
+    "Cert": 29776,
+    "Acquiring Institution": "New York Community Bank",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10155
+  },
+  {
+    "Bank Name": "The Tattnall Bank",
+    "City": "Reidsville",
+    "State": "GA",
+    "Cert": 12080,
+    "Acquiring Institution": "Heritage Bank of the South",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10153
+  },
+  {
+    "Bank Name": "First Security National Bank",
+    "City": "Norcross",
+    "State": "GA",
+    "Cert": 26290,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10157
+  },
+  {
+    "Bank Name": "The Buckhead Community Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 34663,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "4-Dec-2009",
+    "Fund": 10152
+  },
+  {
+    "Bank Name": "Commerce Bank of Southwest Florida",
+    "City": "Fort Myers",
+    "State": "FL",
+    "Cert": 58016,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "20-Nov-2009",
+    "Fund": 10151
+  },
+  {
+    "Bank Name": "Pacific Coast National Bank",
+    "City": "San Clemente",
+    "State": "CA",
+    "Cert": 57914,
+    "Acquiring Institution": "Sunwest Bank",
+    "Closing Date": "13-Nov-2009",
+    "Fund": 10150
+  },
+  {
+    "Bank Name": "Orion Bank",
+    "City": "Naples",
+    "State": "FL",
+    "Cert": 22427,
+    "Acquiring Institution": "IBERIABANK",
+    "Closing Date": "13-Nov-2009",
+    "Fund": 10149
+  },
+  {
+    "Bank Name": "Century Bank, F.S.B.",
+    "City": "Sarasota",
+    "State": "FL",
+    "Cert": 32267,
+    "Acquiring Institution": "IBERIABANK",
+    "Closing Date": "13-Nov-2009",
+    "Fund": 10148
+  },
+  {
+    "Bank Name": "United Commercial Bank",
+    "City": "San Francisco",
+    "State": "CA",
+    "Cert": 32469,
+    "Acquiring Institution": "East West Bank",
+    "Closing Date": "6-Nov-2009",
+    "Fund": 10147
+  },
+  {
+    "Bank Name": "Gateway Bank of St. Louis",
+    "City": "St. Louis",
+    "State": "MO",
+    "Cert": 19450,
+    "Acquiring Institution": "Central Bank of Kansas City",
+    "Closing Date": "6-Nov-2009",
+    "Fund": 10146
+  },
+  {
+    "Bank Name": "Prosperan Bank",
+    "City": "Oakdale",
+    "State": "MN",
+    "Cert": 35074,
+    "Acquiring Institution": "Alerus Financial, N.A.",
+    "Closing Date": "6-Nov-2009",
+    "Fund": 10143
+  },
+  {
+    "Bank Name": "Home Federal Savings Bank",
+    "City": "Detroit",
+    "State": "MI",
+    "Cert": 30329,
+    "Acquiring Institution": "Liberty Bank and Trust Company",
+    "Closing Date": "6-Nov-2009",
+    "Fund": 10144
+  },
+  {
+    "Bank Name": "United Security Bank",
+    "City": "Sparta",
+    "State": "GA",
+    "Cert": 22286,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "6-Nov-2009",
+    "Fund": 10145
+  },
+  {
+    "Bank Name": "North Houston Bank",
+    "City": "Houston",
+    "State": "TX",
+    "Cert": 18776,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10138
+  },
+  {
+    "Bank Name": "Madisonville State Bank",
+    "City": "Madisonville",
+    "State": "TX",
+    "Cert": 33782,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10142
+  },
+  {
+    "Bank Name": "Citizens National Bank",
+    "City": "Teague",
+    "State": "TX",
+    "Cert": 25222,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10141
+  },
+  {
+    "Bank Name": "Park National Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 11677,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10140
+  },
+  {
+    "Bank Name": "Pacific National Bank",
+    "City": "San Francisco",
+    "State": "CA",
+    "Cert": 30006,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10139
+  },
+  {
+    "Bank Name": "California National Bank",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Cert": 34659,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10134
+  },
+  {
+    "Bank Name": "San Diego National Bank",
+    "City": "San Diego",
+    "State": "CA",
+    "Cert": 23594,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10135
+  },
+  {
+    "Bank Name": "Community Bank of Lemont",
+    "City": "Lemont",
+    "State": "IL",
+    "Cert": 35291,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10137
+  },
+  {
+    "Bank Name": "Bank USA, N.A.",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 32218,
+    "Acquiring Institution": "U.S. Bank N.A.",
+    "Closing Date": "30-Oct-2009",
+    "Fund": 10136
+  },
+  {
+    "Bank Name": "First DuPage Bank",
+    "City": "Westmont",
+    "State": "IL",
+    "Cert": 35038,
+    "Acquiring Institution": "First Midwest Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10128
+  },
+  {
+    "Bank Name": "Riverview Community Bank",
+    "City": "Otsego",
+    "State": "MN",
+    "Cert": 57525,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10133
+  },
+  {
+    "Bank Name": "Bank of Elmwood",
+    "City": "Racine",
+    "State": "WI",
+    "Cert": 18321,
+    "Acquiring Institution": "Tri City National Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10132
+  },
+  {
+    "Bank Name": "Flagship National Bank",
+    "City": "Bradenton",
+    "State": "FL",
+    "Cert": 35044,
+    "Acquiring Institution": "First Federal Bank of Florida",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10129
+  },
+  {
+    "Bank Name": "Hillcrest Bank Florida",
+    "City": "Naples",
+    "State": "FL",
+    "Cert": 58336,
+    "Acquiring Institution": "Stonegate Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10131
+  },
+  {
+    "Bank Name": "American United Bank",
+    "City": "Lawrenceville",
+    "State": "GA",
+    "Cert": 57794,
+    "Acquiring Institution": "Ameris Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10127
+  },
+  {
+    "Bank Name": "Partners Bank",
+    "City": "Naples",
+    "State": "FL",
+    "Cert": 57959,
+    "Acquiring Institution": "Stonegate Bank",
+    "Closing Date": "23-Oct-2009",
+    "Fund": 10130
+  },
+  {
+    "Bank Name": "San Joaquin Bank",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Cert": 23266,
+    "Acquiring Institution": "Citizens Business Bank",
+    "Closing Date": "16-Oct-2009",
+    "Fund": 10126
+  },
+  {
+    "Bank Name": "Southern Colorado National Bank",
+    "City": "Pueblo",
+    "State": "CO",
+    "Cert": 57263,
+    "Acquiring Institution": "Legacy Bank",
+    "Closing Date": "2-Oct-2009",
+    "Fund": 10123
+  },
+  {
+    "Bank Name": "Jennings State Bank",
+    "City": "Spring Grove",
+    "State": "MN",
+    "Cert": 11416,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "2-Oct-2009",
+    "Fund": 10124
+  },
+  {
+    "Bank Name": "Warren Bank",
+    "City": "Warren",
+    "State": "MI",
+    "Cert": 34824,
+    "Acquiring Institution": "The Huntington National Bank",
+    "Closing Date": "2-Oct-2009",
+    "Fund": 10125
+  },
+  {
+    "Bank Name": "Georgian Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 57151,
+    "Acquiring Institution": "First Citizens Bank and Trust Company, Inc.",
+    "Closing Date": "25-Sep-2009",
+    "Fund": 10122
+  },
+  {
+    "Bank Name": "Irwin Union Bank, F.S.B.",
+    "City": "Louisville",
+    "State": "KY",
+    "Cert": 57068,
+    "Acquiring Institution": "First Financial Bank, N.A.",
+    "Closing Date": "18-Sep-2009",
+    "Fund": 10121
+  },
+  {
+    "Bank Name": "Irwin Union Bank and Trust Company",
+    "City": "Columbus",
+    "State": "IN",
+    "Cert": 10100,
+    "Acquiring Institution": "First Financial Bank, N.A.",
+    "Closing Date": "18-Sep-2009",
+    "Fund": 10120
+  },
+  {
+    "Bank Name": "Venture Bank",
+    "City": "Lacey",
+    "State": "WA",
+    "Cert": 22868,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "11-Sep-2009",
+    "Fund": 10119
+  },
+  {
+    "Bank Name": "Brickwell Community Bank",
+    "City": "Woodbury",
+    "State": "MN",
+    "Cert": 57736,
+    "Acquiring Institution": "CorTrust Bank N.A.",
+    "Closing Date": "11-Sep-2009",
+    "Fund": 10118
+  },
+  {
+    "Bank Name": "Corus Bank, N.A.",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 13693,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "11-Sep-2009",
+    "Fund": 10117
+  },
+  {
+    "Bank Name": "First State Bank",
+    "City": "Flagstaff",
+    "State": "AZ",
+    "Cert": 34875,
+    "Acquiring Institution": "Sunwest Bank",
+    "Closing Date": "4-Sep-2009",
+    "Fund": 10114
+  },
+  {
+    "Bank Name": "Platinum Community Bank",
+    "City": "Rolling Meadows",
+    "State": "IL",
+    "Cert": 35030,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "4-Sep-2009",
+    "Fund": 10115
+  },
+  {
+    "Bank Name": "Vantus Bank",
+    "City": "Sioux City",
+    "State": "IA",
+    "Cert": 27732,
+    "Acquiring Institution": "Great Southern Bank",
+    "Closing Date": "4-Sep-2009",
+    "Fund": 10116
+  },
+  {
+    "Bank Name": "InBank",
+    "City": "Oak Forest",
+    "State": "IL",
+    "Cert": 20203,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "4-Sep-2009",
+    "Fund": 10113
+  },
+  {
+    "Bank Name": "First Bank of Kansas City",
+    "City": "Kansas City",
+    "State": "MO",
+    "Cert": 25231,
+    "Acquiring Institution": "Great American Bank",
+    "Closing Date": "4-Sep-2009",
+    "Fund": 10112
+  },
+  {
+    "Bank Name": "Affinity Bank",
+    "City": "Ventura",
+    "State": "CA",
+    "Cert": 27197,
+    "Acquiring Institution": "Pacific Western Bank",
+    "Closing Date": "28-Aug-2009",
+    "Fund": 10110
+  },
+  {
+    "Bank Name": "Mainstreet Bank",
+    "City": "Forest Lake",
+    "State": "MN",
+    "Cert": 1909,
+    "Acquiring Institution": "Central Bank",
+    "Closing Date": "28-Aug-2009",
+    "Fund": 10111
+  },
+  {
+    "Bank Name": "Bradford Bank",
+    "City": "Baltimore",
+    "State": "MD",
+    "Cert": 28312,
+    "Acquiring Institution": "Manufacturers and Traders Trust Company (M&T Bank)",
+    "Closing Date": "28-Aug-2009",
+    "Fund": 10109
+  },
+  {
+    "Bank Name": "Guaranty Bank",
+    "City": "Austin",
+    "State": "TX",
+    "Cert": 32618,
+    "Acquiring Institution": "BBVA Compass",
+    "Closing Date": "21-Aug-2009",
+    "Fund": 10105
+  },
+  {
+    "Bank Name": "CapitalSouth Bank",
+    "City": "Birmingham",
+    "State": "AL",
+    "Cert": 22130,
+    "Acquiring Institution": "IBERIABANK",
+    "Closing Date": "21-Aug-2009",
+    "Fund": 10106
+  },
+  {
+    "Bank Name": "First Coweta Bank",
+    "City": "Newnan",
+    "State": "GA",
+    "Cert": 57702,
+    "Acquiring Institution": "United Bank",
+    "Closing Date": "21-Aug-2009",
+    "Fund": 10108
+  },
+  {
+    "Bank Name": "ebank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 34682,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "21-Aug-2009",
+    "Fund": 10107
+  },
+  {
+    "Bank Name": "Community Bank of Nevada",
+    "City": "Las Vegas",
+    "State": "NV",
+    "Cert": 34043,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "14-Aug-2009",
+    "Fund": 10100
+  },
+  {
+    "Bank Name": "Community Bank of Arizona",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 57645,
+    "Acquiring Institution": "MidFirst Bank",
+    "Closing Date": "14-Aug-2009",
+    "Fund": 10101
+  },
+  {
+    "Bank Name": "Union Bank, National Association",
+    "City": "Gilbert",
+    "State": "AZ",
+    "Cert": 34485,
+    "Acquiring Institution": "MidFirst Bank",
+    "Closing Date": "14-Aug-2009",
+    "Fund": 10102
+  },
+  {
+    "Bank Name": "Colonial Bank",
+    "City": "Montgomery",
+    "State": "AL",
+    "Cert": 9609,
+    "Acquiring Institution": "Branch Banking & Trust Company, (BB&T)",
+    "Closing Date": "14-Aug-2009",
+    "Fund": 10103
+  },
+  {
+    "Bank Name": "Dwelling House Savings and Loan Association",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Cert": 31559,
+    "Acquiring Institution": "PNC Bank, N.A.",
+    "Closing Date": "14-Aug-2009",
+    "Fund": 10104
+  },
+  {
+    "Bank Name": "Community First Bank",
+    "City": "Prineville",
+    "State": "OR",
+    "Cert": 23268,
+    "Acquiring Institution": "Home Federal Bank",
+    "Closing Date": "7-Aug-2009",
+    "Fund": 10092
+  },
+  {
+    "Bank Name": "Community National Bank of Sarasota County",
+    "City": "Venice",
+    "State": "FL",
+    "Cert": 27183,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "7-Aug-2009",
+    "Fund": 10099
+  },
+  {
+    "Bank Name": "First State Bank",
+    "City": "Sarasota",
+    "State": "FL",
+    "Cert": 27364,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "7-Aug-2009",
+    "Fund": 10098
+  },
+  {
+    "Bank Name": "Mutual Bank",
+    "City": "Harvey",
+    "State": "IL",
+    "Cert": 18659,
+    "Acquiring Institution": "United Central Bank",
+    "Closing Date": "31-Jul-2009",
+    "Fund": 10094
+  },
+  {
+    "Bank Name": "First BankAmericano",
+    "City": "Elizabeth",
+    "State": "NJ",
+    "Cert": 34270,
+    "Acquiring Institution": "Crown Bank",
+    "Closing Date": "31-Jul-2009",
+    "Fund": 10097
+  },
+  {
+    "Bank Name": "Peoples Community Bank",
+    "City": "West Chester",
+    "State": "OH",
+    "Cert": 32288,
+    "Acquiring Institution": "First Financial Bank, N.A.",
+    "Closing Date": "31-Jul-2009",
+    "Fund": 10096
+  },
+  {
+    "Bank Name": "Integrity Bank",
+    "City": "Jupiter",
+    "State": "FL",
+    "Cert": 57604,
+    "Acquiring Institution": "Stonegate Bank",
+    "Closing Date": "31-Jul-2009",
+    "Fund": 10095
+  },
+  {
+    "Bank Name": "First State Bank of Altus",
+    "City": "Altus",
+    "State": "OK",
+    "Cert": 9873,
+    "Acquiring Institution": "Herring Bank",
+    "Closing Date": "31-Jul-2009",
+    "Fund": 10093
+  },
+  {
+    "Bank Name": "Security Bank of Jones County",
+    "City": "Gray",
+    "State": "GA",
+    "Cert": 8486,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10088
+  },
+  {
+    "Bank Name": "Security Bank of Houston County",
+    "City": "Perry",
+    "State": "GA",
+    "Cert": 27048,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10087
+  },
+  {
+    "Bank Name": "Security Bank of Bibb County",
+    "City": "Macon",
+    "State": "GA",
+    "Cert": 27367,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10085
+  },
+  {
+    "Bank Name": "Security Bank of North Metro",
+    "City": "Woodstock",
+    "State": "GA",
+    "Cert": 57105,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10090
+  },
+  {
+    "Bank Name": "Security Bank of North Fulton",
+    "City": "Alpharetta",
+    "State": "GA",
+    "Cert": 57430,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10089
+  },
+  {
+    "Bank Name": "Security Bank of Gwinnett County",
+    "City": "Suwanee",
+    "State": "GA",
+    "Cert": 57346,
+    "Acquiring Institution": "State Bank and Trust Company",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10086
+  },
+  {
+    "Bank Name": "Waterford Village Bank",
+    "City": "Williamsville",
+    "State": "NY",
+    "Cert": 58065,
+    "Acquiring Institution": "Evans Bank, N.A.",
+    "Closing Date": "24-Jul-2009",
+    "Fund": 10091
+  },
+  {
+    "Bank Name": "Temecula Valley Bank",
+    "City": "Temecula",
+    "State": "CA",
+    "Cert": 34341,
+    "Acquiring Institution": "First-Citizens Bank & Trust Company",
+    "Closing Date": "17-Jul-2009",
+    "Fund": 10082
+  },
+  {
+    "Bank Name": "Vineyard Bank",
+    "City": "Rancho Cucamonga",
+    "State": "CA",
+    "Cert": 23556,
+    "Acquiring Institution": "California Bank & Trust",
+    "Closing Date": "17-Jul-2009",
+    "Fund": 10083
+  },
+  {
+    "Bank Name": "BankFirst",
+    "City": "Sioux Falls",
+    "State": "SD",
+    "Cert": 34103,
+    "Acquiring Institution": "Alerus Financial, N.A.",
+    "Closing Date": "17-Jul-2009",
+    "Fund": 10081
+  },
+  {
+    "Bank Name": "First Piedmont Bank",
+    "City": "Winder",
+    "State": "GA",
+    "Cert": 34594,
+    "Acquiring Institution": "First American Bank and Trust Company",
+    "Closing Date": "17-Jul-2009",
+    "Fund": 10084
+  },
+  {
+    "Bank Name": "Bank of Wyoming",
+    "City": "Thermopolis",
+    "State": "WY",
+    "Cert": 22754,
+    "Acquiring Institution": "Central Bank & Trust",
+    "Closing Date": "10-Jul-2009",
+    "Fund": 10080
+  },
+  {
+    "Bank Name": "Founders Bank",
+    "City": "Worth",
+    "State": "IL",
+    "Cert": 18390,
+    "Acquiring Institution": "The PrivateBank and Trust Company",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10074
+  },
+  {
+    "Bank Name": "Millennium State Bank of Texas",
+    "City": "Dallas",
+    "State": "TX",
+    "Cert": 57667,
+    "Acquiring Institution": "State Bank of Texas",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10079
+  },
+  {
+    "Bank Name": "First National Bank of Danville",
+    "City": "Danville",
+    "State": "IL",
+    "Cert": 3644,
+    "Acquiring Institution": "First Financial Bank, N.A.",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10078
+  },
+  {
+    "Bank Name": "The Elizabeth State Bank",
+    "City": "Elizabeth",
+    "State": "IL",
+    "Cert": 9262,
+    "Acquiring Institution": "Galena State Bank and Trust Company",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10073
+  },
+  {
+    "Bank Name": "Rock River Bank",
+    "City": "Oregon",
+    "State": "IL",
+    "Cert": 15302,
+    "Acquiring Institution": "The Harvard State Bank",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10075
+  },
+  {
+    "Bank Name": "First State Bank of Winchester",
+    "City": "Winchester",
+    "State": "IL",
+    "Cert": 11710,
+    "Acquiring Institution": "The First National Bank of Beardstown",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10077
+  },
+  {
+    "Bank Name": "John Warner Bank",
+    "City": "Clinton",
+    "State": "IL",
+    "Cert": 12093,
+    "Acquiring Institution": "State Bank of Lincoln",
+    "Closing Date": "2-Jul-2009",
+    "Fund": 10076
+  },
+  {
+    "Bank Name": "Mirae Bank",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Cert": 57332,
+    "Acquiring Institution": "Wilshire State Bank",
+    "Closing Date": "26-Jun-2009",
+    "Fund": 10072
+  },
+  {
+    "Bank Name": "MetroPacific Bank",
+    "City": "Irvine",
+    "State": "CA",
+    "Cert": 57893,
+    "Acquiring Institution": "Sunwest Bank",
+    "Closing Date": "26-Jun-2009",
+    "Fund": 10071
+  },
+  {
+    "Bank Name": "Horizon Bank",
+    "City": "Pine City",
+    "State": "MN",
+    "Cert": 9744,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "26-Jun-2009",
+    "Fund": 10070
+  },
+  {
+    "Bank Name": "Neighborhood Community Bank",
+    "City": "Newnan",
+    "State": "GA",
+    "Cert": 35285,
+    "Acquiring Institution": "CharterBank",
+    "Closing Date": "26-Jun-2009",
+    "Fund": 10069
+  },
+  {
+    "Bank Name": "Community Bank of West Georgia",
+    "City": "Villa Rica",
+    "State": "GA",
+    "Cert": 57436,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "26-Jun-2009",
+    "Fund": 10068
+  },
+  {
+    "Bank Name": "First National Bank of Anthony",
+    "City": "Anthony",
+    "State": "KS",
+    "Cert": 4614,
+    "Acquiring Institution": "Bank of Kansas",
+    "Closing Date": "19-Jun-2009",
+    "Fund": 10066
+  },
+  {
+    "Bank Name": "Cooperative Bank",
+    "City": "Wilmington",
+    "State": "NC",
+    "Cert": 27837,
+    "Acquiring Institution": "First Bank",
+    "Closing Date": "19-Jun-2009",
+    "Fund": 10065
+  },
+  {
+    "Bank Name": "Southern Community Bank",
+    "City": "Fayetteville",
+    "State": "GA",
+    "Cert": 35251,
+    "Acquiring Institution": "United Community Bank",
+    "Closing Date": "19-Jun-2009",
+    "Fund": 10067
+  },
+  {
+    "Bank Name": "Bank of Lincolnwood",
+    "City": "Lincolnwood",
+    "State": "IL",
+    "Cert": 17309,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "5-Jun-2009",
+    "Fund": 10064
+  },
+  {
+    "Bank Name": "Citizens National Bank",
+    "City": "Macomb",
+    "State": "IL",
+    "Cert": 5757,
+    "Acquiring Institution": "Morton Community Bank",
+    "Closing Date": "22-May-2009",
+    "Fund": 10063
+  },
+  {
+    "Bank Name": "Strategic Capital Bank",
+    "City": "Champaign",
+    "State": "IL",
+    "Cert": 35175,
+    "Acquiring Institution": "Midland States Bank",
+    "Closing Date": "22-May-2009",
+    "Fund": 10062
+  },
+  {
+    "Bank Name": "BankUnited, FSB",
+    "City": "Coral Gables",
+    "State": "FL",
+    "Cert": 32247,
+    "Acquiring Institution": "BankUnited",
+    "Closing Date": "21-May-2009",
+    "Fund": 10061
+  },
+  {
+    "Bank Name": "Westsound Bank",
+    "City": "Bremerton",
+    "State": "WA",
+    "Cert": 34843,
+    "Acquiring Institution": "Kitsap Bank",
+    "Closing Date": "8-May-2009",
+    "Fund": 10060
+  },
+  {
+    "Bank Name": "America West Bank",
+    "City": "Layton",
+    "State": "UT",
+    "Cert": 35461,
+    "Acquiring Institution": "Cache Valley Bank",
+    "Closing Date": "1-May-2009",
+    "Fund": 10057
+  },
+  {
+    "Bank Name": "Citizens Community Bank",
+    "City": "Ridgewood",
+    "State": "NJ",
+    "Cert": 57563,
+    "Acquiring Institution": "North Jersey Community Bank",
+    "Closing Date": "1-May-2009",
+    "Fund": 10058
+  },
+  {
+    "Bank Name": "Silverton Bank, NA",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 26535,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "1-May-2009",
+    "Fund": 10059
+  },
+  {
+    "Bank Name": "First Bank of Idaho",
+    "City": "Ketchum",
+    "State": "ID",
+    "Cert": 34396,
+    "Acquiring Institution": "U.S. Bank, N.A.",
+    "Closing Date": "24-Apr-2009",
+    "Fund": 10055
+  },
+  {
+    "Bank Name": "First Bank of Beverly Hills",
+    "City": "Calabasas",
+    "State": "CA",
+    "Cert": 32069,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "24-Apr-2009",
+    "Fund": 10054
+  },
+  {
+    "Bank Name": "Michigan Heritage Bank",
+    "City": "Farmington Hills",
+    "State": "MI",
+    "Cert": 34369,
+    "Acquiring Institution": "Level One Bank",
+    "Closing Date": "24-Apr-2009",
+    "Fund": 10056
+  },
+  {
+    "Bank Name": "American Southern Bank",
+    "City": "Kennesaw",
+    "State": "GA",
+    "Cert": 57943,
+    "Acquiring Institution": "Bank of North Georgia",
+    "Closing Date": "24-Apr-2009",
+    "Fund": 10053
+  },
+  {
+    "Bank Name": "Great Basin Bank of Nevada",
+    "City": "Elko",
+    "State": "NV",
+    "Cert": 33824,
+    "Acquiring Institution": "Nevada State Bank",
+    "Closing Date": "17-Apr-2009",
+    "Fund": 10051
+  },
+  {
+    "Bank Name": "American Sterling Bank",
+    "City": "Sugar Creek",
+    "State": "MO",
+    "Cert": 8266,
+    "Acquiring Institution": "Metcalf Bank",
+    "Closing Date": "17-Apr-2009",
+    "Fund": 10052
+  },
+  {
+    "Bank Name": "New Frontier Bank",
+    "City": "Greeley",
+    "State": "CO",
+    "Cert": 34881,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "10-Apr-2009",
+    "Fund": 10050
+  },
+  {
+    "Bank Name": "Cape Fear Bank",
+    "City": "Wilmington",
+    "State": "NC",
+    "Cert": 34639,
+    "Acquiring Institution": "First Federal Savings and Loan Association",
+    "Closing Date": "10-Apr-2009",
+    "Fund": 10049
+  },
+  {
+    "Bank Name": "Omni National Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 22238,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "27-Mar-2009",
+    "Fund": 10048
+  },
+  {
+    "Bank Name": "TeamBank, NA",
+    "City": "Paola",
+    "State": "KS",
+    "Cert": 4754,
+    "Acquiring Institution": "Great Southern Bank",
+    "Closing Date": "20-Mar-2009",
+    "Fund": 10046
+  },
+  {
+    "Bank Name": "Colorado National Bank",
+    "City": "Colorado Springs",
+    "State": "CO",
+    "Cert": 18896,
+    "Acquiring Institution": "Herring Bank",
+    "Closing Date": "20-Mar-2009",
+    "Fund": 10045
+  },
+  {
+    "Bank Name": "FirstCity Bank",
+    "City": "Stockbridge",
+    "State": "GA",
+    "Cert": 18243,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "20-Mar-2009",
+    "Fund": 10047
+  },
+  {
+    "Bank Name": "Freedom Bank of Georgia",
+    "City": "Commerce",
+    "State": "GA",
+    "Cert": 57558,
+    "Acquiring Institution": "Northeast Georgia Bank",
+    "Closing Date": "6-Mar-2009",
+    "Fund": 10044
+  },
+  {
+    "Bank Name": "Security Savings Bank",
+    "City": "Henderson",
+    "State": "NV",
+    "Cert": 34820,
+    "Acquiring Institution": "Bank of Nevada",
+    "Closing Date": "27-Feb-2009",
+    "Fund": 10043
+  },
+  {
+    "Bank Name": "Heritage Community Bank",
+    "City": "Glenwood",
+    "State": "IL",
+    "Cert": 20078,
+    "Acquiring Institution": "MB Financial Bank, N.A.",
+    "Closing Date": "27-Feb-2009",
+    "Fund": 10042
+  },
+  {
+    "Bank Name": "Silver Falls Bank",
+    "City": "Silverton",
+    "State": "OR",
+    "Cert": 35399,
+    "Acquiring Institution": "Citizens Bank",
+    "Closing Date": "20-Feb-2009",
+    "Fund": 10041
+  },
+  {
+    "Bank Name": "Pinnacle Bank of Oregon",
+    "City": "Beaverton",
+    "State": "OR",
+    "Cert": 57342,
+    "Acquiring Institution": "Washington Trust Bank of Spokane",
+    "Closing Date": "13-Feb-2009",
+    "Fund": 10040
+  },
+  {
+    "Bank Name": "Corn Belt Bank & Trust Co.",
+    "City": "Pittsfield",
+    "State": "IL",
+    "Cert": 16500,
+    "Acquiring Institution": "The Carlinville National Bank",
+    "Closing Date": "13-Feb-2009",
+    "Fund": 10037
+  },
+  {
+    "Bank Name": "Riverside Bank of the Gulf Coast",
+    "City": "Cape Coral",
+    "State": "FL",
+    "Cert": 34563,
+    "Acquiring Institution": "TIB Bank",
+    "Closing Date": "13-Feb-2009",
+    "Fund": 10038
+  },
+  {
+    "Bank Name": "Sherman County Bank",
+    "City": "Loup City",
+    "State": "NE",
+    "Cert": 5431,
+    "Acquiring Institution": "Heritage Bank",
+    "Closing Date": "13-Feb-2009",
+    "Fund": 10039
+  },
+  {
+    "Bank Name": "County Bank",
+    "City": "Merced",
+    "State": "CA",
+    "Cert": 22574,
+    "Acquiring Institution": "Westamerica Bank",
+    "Closing Date": "6-Feb-2009",
+    "Fund": 10034
+  },
+  {
+    "Bank Name": "Alliance Bank",
+    "City": "Culver City",
+    "State": "CA",
+    "Cert": 23124,
+    "Acquiring Institution": "California Bank & Trust",
+    "Closing Date": "6-Feb-2009",
+    "Fund": 10035
+  },
+  {
+    "Bank Name": "FirstBank Financial Services",
+    "City": "McDonough",
+    "State": "GA",
+    "Cert": 57017,
+    "Acquiring Institution": "Regions Bank",
+    "Closing Date": "6-Feb-2009",
+    "Fund": 10036
+  },
+  {
+    "Bank Name": "Ocala National Bank",
+    "City": "Ocala",
+    "State": "FL",
+    "Cert": 26538,
+    "Acquiring Institution": "CenterState Bank of Florida, N.A.",
+    "Closing Date": "30-Jan-2009",
+    "Fund": 10032
+  },
+  {
+    "Bank Name": "Suburban FSB",
+    "City": "Crofton",
+    "State": "MD",
+    "Cert": 30763,
+    "Acquiring Institution": "Bank of Essex",
+    "Closing Date": "30-Jan-2009",
+    "Fund": 10033
+  },
+  {
+    "Bank Name": "MagnetBank",
+    "City": "Salt Lake City",
+    "State": "UT",
+    "Cert": 58001,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "30-Jan-2009",
+    "Fund": 10031
+  },
+  {
+    "Bank Name": "1st Centennial Bank",
+    "City": "Redlands",
+    "State": "CA",
+    "Cert": 33025,
+    "Acquiring Institution": "First California Bank",
+    "Closing Date": "23-Jan-2009",
+    "Fund": 10030
+  },
+  {
+    "Bank Name": "Bank of Clark County",
+    "City": "Vancouver",
+    "State": "WA",
+    "Cert": 34959,
+    "Acquiring Institution": "Umpqua Bank",
+    "Closing Date": "16-Jan-2009",
+    "Fund": 10029
+  },
+  {
+    "Bank Name": "National Bank of Commerce",
+    "City": "Berkeley",
+    "State": "IL",
+    "Cert": 19733,
+    "Acquiring Institution": "Republic Bank of Chicago",
+    "Closing Date": "16-Jan-2009",
+    "Fund": 10028
+  },
+  {
+    "Bank Name": "Sanderson State Bank",
+    "City": "Sanderson",
+    "State": "TX",
+    "Cert": 11568,
+    "Acquiring Institution": "The Pecos County State Bank",
+    "Closing Date": "12-Dec-2008",
+    "Fund": 10026
+  },
+  {
+    "Bank Name": "Haven Trust Bank",
+    "City": "Duluth",
+    "State": "GA",
+    "Cert": 35379,
+    "Acquiring Institution": "Branch Banking & Trust Company, (BB&T)",
+    "Closing Date": "12-Dec-2008",
+    "Fund": 10027
+  },
+  {
+    "Bank Name": "First Georgia Community Bank",
+    "City": "Jackson",
+    "State": "GA",
+    "Cert": 34301,
+    "Acquiring Institution": "United Bank",
+    "Closing Date": "5-Dec-2008",
+    "Fund": 10025
+  },
+  {
+    "Bank Name": "PFF Bank & Trust",
+    "City": "Pomona",
+    "State": "CA",
+    "Cert": 28344,
+    "Acquiring Institution": "U.S. Bank, N.A.",
+    "Closing Date": "21-Nov-2008",
+    "Fund": 10024
+  },
+  {
+    "Bank Name": "Downey Savings & Loan",
+    "City": "Newport Beach",
+    "State": "CA",
+    "Cert": 30968,
+    "Acquiring Institution": "U.S. Bank, N.A.",
+    "Closing Date": "21-Nov-2008",
+    "Fund": 10023
+  },
+  {
+    "Bank Name": "Community Bank",
+    "City": "Loganville",
+    "State": "GA",
+    "Cert": 16490,
+    "Acquiring Institution": "Bank of Essex",
+    "Closing Date": "21-Nov-2008",
+    "Fund": 10022
+  },
+  {
+    "Bank Name": "Security Pacific Bank",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Cert": 23595,
+    "Acquiring Institution": "Pacific Western Bank",
+    "Closing Date": "7-Nov-2008",
+    "Fund": 10020
+  },
+  {
+    "Bank Name": "Franklin Bank, SSB",
+    "City": "Houston",
+    "State": "TX",
+    "Cert": 26870,
+    "Acquiring Institution": "Prosperity Bank",
+    "Closing Date": "7-Nov-2008",
+    "Fund": 10021
+  },
+  {
+    "Bank Name": "Freedom Bank",
+    "City": "Bradenton",
+    "State": "FL",
+    "Cert": 57930,
+    "Acquiring Institution": "Fifth Third Bank",
+    "Closing Date": "31-Oct-2008",
+    "Fund": 10019
+  },
+  {
+    "Bank Name": "Alpha Bank & Trust",
+    "City": "Alpharetta",
+    "State": "GA",
+    "Cert": 58241,
+    "Acquiring Institution": "Stearns Bank, N.A.",
+    "Closing Date": "24-Oct-2008",
+    "Fund": 10018
+  },
+  {
+    "Bank Name": "Meridian Bank",
+    "City": "Eldred",
+    "State": "IL",
+    "Cert": 13789,
+    "Acquiring Institution": "National Bank",
+    "Closing Date": "10-Oct-2008",
+    "Fund": 10017
+  },
+  {
+    "Bank Name": "Main Street Bank",
+    "City": "Northville",
+    "State": "MI",
+    "Cert": 57654,
+    "Acquiring Institution": "Monroe Bank & Trust",
+    "Closing Date": "10-Oct-2008",
+    "Fund": 10016
+  },
+  {
+    "Bank Name": "Washington Mutual Bank (Including its subsidiary Washington Mutual Bank FSB)",
+    "City": "Henderson",
+    "State": "NV",
+    "Cert": 32633,
+    "Acquiring Institution": "JP Morgan Chase Bank",
+    "Closing Date": "25-Sep-2008",
+    "Fund": 10015
+  },
+  {
+    "Bank Name": "Ameribank",
+    "City": "Northfork",
+    "State": "WV",
+    "Cert": 6782,
+    "Acquiring Institution": "The Citizens Savings Bank ********** Pioneer Community Bank, Inc.",
+    "Closing Date": "19-Sep-2008",
+    "Fund": 10014
+  },
+  {
+    "Bank Name": "Silver State Bank",
+    "City": "Henderson",
+    "State": "NV",
+    "Cert": 34194,
+    "Acquiring Institution": "Nevada State Bank",
+    "Closing Date": "5-Sep-2008",
+    "Fund": 10013
+  },
+  {
+    "Bank Name": "Integrity Bank",
+    "City": "Alpharetta",
+    "State": "GA",
+    "Cert": 35469,
+    "Acquiring Institution": "Regions Bank",
+    "Closing Date": "29-Aug-2008",
+    "Fund": 10012
+  },
+  {
+    "Bank Name": "Columbian Bank & Trust",
+    "City": "Topeka",
+    "State": "KS",
+    "Cert": 22728,
+    "Acquiring Institution": "Citizens Bank & Trust",
+    "Closing Date": "22-Aug-2008",
+    "Fund": 10011
+  },
+  {
+    "Bank Name": "First Priority Bank",
+    "City": "Bradenton",
+    "State": "FL",
+    "Cert": 57523,
+    "Acquiring Institution": "SunTrust Bank",
+    "Closing Date": "1-Aug-2008",
+    "Fund": 10010
+  },
+  {
+    "Bank Name": "First Heritage Bank, NA",
+    "City": "Newport Beach",
+    "State": "CA",
+    "Cert": 57961,
+    "Acquiring Institution": "Mutual of Omaha Bank",
+    "Closing Date": "25-Jul-2008",
+    "Fund": 10009
+  },
+  {
+    "Bank Name": "First National Bank of Nevada",
+    "City": "Reno",
+    "State": "NV",
+    "Cert": 27011,
+    "Acquiring Institution": "Mutual of Omaha Bank",
+    "Closing Date": "25-Jul-2008",
+    "Fund": 10008
+  },
+  {
+    "Bank Name": "IndyMac Bank",
+    "City": "Pasadena",
+    "State": "CA",
+    "Cert": 29730,
+    "Acquiring Institution": "OneWest Bank, FSB",
+    "Closing Date": "11-Jul-2008",
+    "Fund": 10007
+  },
+  {
+    "Bank Name": "First Integrity Bank, NA",
+    "City": "Staples",
+    "State": "MN",
+    "Cert": 12736,
+    "Acquiring Institution": "First International Bank and Trust",
+    "Closing Date": "30-May-2008",
+    "Fund": 10006
+  },
+  {
+    "Bank Name": "ANB Financial, NA",
+    "City": "Bentonville",
+    "State": "AR",
+    "Cert": 33901,
+    "Acquiring Institution": "Pulaski Bank and Trust Company",
+    "Closing Date": "9-May-2008",
+    "Fund": 10005
+  },
+  {
+    "Bank Name": "Hume Bank",
+    "City": "Hume",
+    "State": "MO",
+    "Cert": 1971,
+    "Acquiring Institution": "Security Bank",
+    "Closing Date": "7-Mar-2008",
+    "Fund": 10004
+  },
+  {
+    "Bank Name": "Douglass National Bank",
+    "City": "Kansas City",
+    "State": "MO",
+    "Cert": 24660,
+    "Acquiring Institution": "Liberty Bank and Trust Company",
+    "Closing Date": "25-Jan-2008",
+    "Fund": 10003
+  },
+  {
+    "Bank Name": "Miami Valley Bank",
+    "City": "Lakeview",
+    "State": "OH",
+    "Cert": 16848,
+    "Acquiring Institution": "The Citizens Banking Company",
+    "Closing Date": "4-Oct-2007",
+    "Fund": 10002
+  },
+  {
+    "Bank Name": "NetBank",
+    "City": "Alpharetta",
+    "State": "GA",
+    "Cert": 32575,
+    "Acquiring Institution": "ING DIRECT",
+    "Closing Date": "28-Sep-2007",
+    "Fund": 10001
+  },
+  {
+    "Bank Name": "Metropolitan Savings Bank",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Cert": 35353,
+    "Acquiring Institution": "Allegheny Valley Bank of Pittsburgh",
+    "Closing Date": "2-Feb-2007",
+    "Fund": 10000
+  },
+  {
+    "Bank Name": "Bank of Ephraim",
+    "City": "Ephraim",
+    "State": "UT",
+    "Cert": 1249,
+    "Acquiring Institution": "Far West Bank",
+    "Closing Date": "25-Jun-2004",
+    "Fund": 4665
+  },
+  {
+    "Bank Name": "Reliance Bank",
+    "City": "White Plains",
+    "State": "NY",
+    "Cert": 26778,
+    "Acquiring Institution": "Union State Bank",
+    "Closing Date": "19-Mar-2004",
+    "Fund": 4664
+  },
+  {
+    "Bank Name": "Guaranty National Bank of Tallahassee",
+    "City": "Tallahassee",
+    "State": "FL",
+    "Cert": 26838,
+    "Acquiring Institution": "Hancock Bank of Florida",
+    "Closing Date": "12-Mar-2004",
+    "Fund": 4663
+  },
+  {
+    "Bank Name": "Dollar Savings Bank",
+    "City": "Newark",
+    "State": "NJ",
+    "Cert": 31330,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "14-Feb-2004",
+    "Fund": 6006
+  },
+  {
+    "Bank Name": "Pulaski Savings Bank",
+    "City": "Philadelphia",
+    "State": "PA",
+    "Cert": 27203,
+    "Acquiring Institution": "Earthstar Bank",
+    "Closing Date": "14-Nov-2003",
+    "Fund": 4662
+  },
+  {
+    "Bank Name": "First National Bank of Blanchardville",
+    "City": "Blanchardville",
+    "State": "WI",
+    "Cert": 11639,
+    "Acquiring Institution": "The Park Bank",
+    "Closing Date": "9-May-2003",
+    "Fund": 4661
+  },
+  {
+    "Bank Name": "Southern Pacific Bank",
+    "City": "Torrance",
+    "State": "CA",
+    "Cert": 27094,
+    "Acquiring Institution": "Beal Bank",
+    "Closing Date": "7-Feb-2003",
+    "Fund": 4660
+  },
+  {
+    "Bank Name": "Farmers Bank of Cheneyville",
+    "City": "Cheneyville",
+    "State": "LA",
+    "Cert": 16445,
+    "Acquiring Institution": "Sabine State Bank & Trust",
+    "Closing Date": "17-Dec-2002",
+    "Fund": 4659
+  },
+  {
+    "Bank Name": "Bank of Alamo",
+    "City": "Alamo",
+    "State": "TN",
+    "Cert": 9961,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "8-Nov-2002",
+    "Fund": 4658
+  },
+  {
+    "Bank Name": "AmTrade International Bank",
+    "City": "Atlanta",
+    "State": "GA",
+    "Cert": 33784,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "30-Sep-2002",
+    "Fund": 4657
+  },
+  {
+    "Bank Name": "Universal Federal Savings Bank",
+    "City": "Chicago",
+    "State": "IL",
+    "Cert": 29355,
+    "Acquiring Institution": "Chicago Community Bank",
+    "Closing Date": "27-Jun-2002",
+    "Fund": 6005
+  },
+  {
+    "Bank Name": "Connecticut Bank of Commerce",
+    "City": "Stamford",
+    "State": "CT",
+    "Cert": 19183,
+    "Acquiring Institution": "Hudson United Bank",
+    "Closing Date": "26-Jun-2002",
+    "Fund": 4656
+  },
+  {
+    "Bank Name": "New Century Bank",
+    "City": "Shelby Township",
+    "State": "MI",
+    "Cert": 34979,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "28-Mar-2002",
+    "Fund": 4655
+  },
+  {
+    "Bank Name": "Net 1st National Bank",
+    "City": "Boca Raton",
+    "State": "FL",
+    "Cert": 26652,
+    "Acquiring Institution": "Bank Leumi USA",
+    "Closing Date": "1-Mar-2002",
+    "Fund": 4654
+  },
+  {
+    "Bank Name": "NextBank, NA",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Cert": 22314,
+    "Acquiring Institution": "No Acquirer",
+    "Closing Date": "7-Feb-2002",
+    "Fund": 4653
+  },
+  {
+    "Bank Name": "Oakwood Deposit Bank Co.",
+    "City": "Oakwood",
+    "State": "OH",
+    "Cert": 8966,
+    "Acquiring Institution": "The State Bank & Trust Company",
+    "Closing Date": "1-Feb-2002",
+    "Fund": 4652
+  },
+  {
+    "Bank Name": "Bank of Sierra Blanca",
+    "City": "Sierra Blanca",
+    "State": "TX",
+    "Cert": 22002,
+    "Acquiring Institution": "The Security State Bank of Pecos",
+    "Closing Date": "18-Jan-2002",
+    "Fund": 4651
+  },
+  {
+    "Bank Name": "Hamilton Bank, NA",
+    "City": "Miami",
+    "State": "FL",
+    "Cert": 24382,
+    "Acquiring Institution": "Israel Discount Bank of New York",
+    "Closing Date": "11-Jan-2002",
+    "Fund": 4650
+  },
+  {
+    "Bank Name": "Sinclair National Bank",
+    "City": "Gravette",
+    "State": "AR",
+    "Cert": 34248,
+    "Acquiring Institution": "Delta Trust & Bank",
+    "Closing Date": "7-Sep-2001",
+    "Fund": 4649
+  },
+  {
+    "Bank Name": "Superior Bank, FSB",
+    "City": "Hinsdale",
+    "State": "IL",
+    "Cert": 32646,
+    "Acquiring Institution": "Superior Federal, FSB",
+    "Closing Date": "27-Jul-2001",
+    "Fund": 6004
+  },
+  {
+    "Bank Name": "Malta National Bank",
+    "City": "Malta",
+    "State": "OH",
+    "Cert": 6629,
+    "Acquiring Institution": "North Valley Bank",
+    "Closing Date": "3-May-2001",
+    "Fund": 4648
+  },
+  {
+    "Bank Name": "First Alliance Bank & Trust Co.",
+    "City": "Manchester",
+    "State": "NH",
+    "Cert": 34264,
+    "Acquiring Institution": "Southern New Hampshire Bank & Trust",
+    "Closing Date": "2-Feb-2001",
+    "Fund": 4647
+  },
+  {
+    "Bank Name": "National State Bank of Metropolis",
+    "City": "Metropolis",
+    "State": "IL",
+    "Cert": 3815,
+    "Acquiring Institution": "Banterra Bank of Marion",
+    "Closing Date": "14-Dec-2000",
+    "Fund": 4646
+  },
+  {
+    "Bank Name": "Bank of Honolulu",
+    "City": "Honolulu",
+    "State": "HI",
+    "Cert": 21029,
+    "Acquiring Institution": "Bank of the Orient",
+    "Closing Date": "13-Oct-2000",
+    "Fund": 4645
+  }
+]
