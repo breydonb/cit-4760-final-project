@@ -1,0 +1,34 @@
+services:
+  react-app:
+    build: ./frontend
+    image: breydonb/cit-4760-final-project:frontend-latest
+    stdin_open: true
+    ports:
+      - "3000:3000"
+    networks:
+      - failed-banks
+  api-server:
+    build: ./api
+    image: breydonb/cit-4760-final-project:api-latest
+    ports:
+      - "4000:4000"
+    depends_on:
+      - mongo
+    networks:
+      - failed-banks
+  mongo:
+    build: ./database
+    image: mongo:latest
+    container_name: database
+    ports:
+      - "27017:27017"
+    networks:
+      - failed-banks
+    volumes:
+      - mongo-data:/data/db
+networks:
+  failed-banks:
+    driver: bridge
+volumes:
+  mongo-data:
+    driver: local

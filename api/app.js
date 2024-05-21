@@ -9,8 +9,6 @@ import cors from 'cors';
 
 import failedBanksRouter from './routes/FailedBanks.js'
 
-import connectToDatabase from './Services/connectToDatabase.js';
-
 var app = express();
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // view engine setup
@@ -23,9 +21,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
-app.use('/FailedBanks', failedBanksRouter);
+app.use('/api', failedBanksRouter);
 
-
+app.listen(4000, '0.0.0.0', () => console.log('App listening on port 4000'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
